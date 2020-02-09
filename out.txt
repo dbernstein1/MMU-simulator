@@ -1,0 +1,7626 @@
+Reading logical address: 16916
+	 Page number: 66
+	 Offset: 20
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 0
+	 Page loaded from disk to memory.
+	 Page table updated at index 66 with frame number 0.
+	 TLB updated with page number 66 and frame number 0.
+	 Value in the memory: 0
+Reading logical address: 62493
+	 Page number: 244
+	 Offset: 29
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 1
+	 Page loaded from disk to memory.
+	 Page table updated at index 244 with frame number 1.
+	 TLB updated with page number 244 and frame number 1.
+	 Value in the memory: 0
+Reading logical address: 30198
+	 Page number: 117
+	 Offset: 246
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 2
+	 Page loaded from disk to memory.
+	 Page table updated at index 117 with frame number 2.
+	 TLB updated with page number 117 and frame number 2.
+	 Value in the memory: 29
+Reading logical address: 53683
+	 Page number: 209
+	 Offset: 179
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 3
+	 Page loaded from disk to memory.
+	 Page table updated at index 209 with frame number 3.
+	 TLB updated with page number 209 and frame number 3.
+	 Value in the memory: 108
+Reading logical address: 40185
+	 Page number: 156
+	 Offset: 249
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 4
+	 Page loaded from disk to memory.
+	 Page table updated at index 156 with frame number 4.
+	 TLB updated with page number 156 and frame number 4.
+	 Value in the memory: 0
+Reading logical address: 28781
+	 Page number: 112
+	 Offset: 109
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 5
+	 Page loaded from disk to memory.
+	 Page table updated at index 112 with frame number 5.
+	 TLB updated with page number 112 and frame number 5.
+	 Value in the memory: 0
+Reading logical address: 24462
+	 Page number: 95
+	 Offset: 142
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 6
+	 Page loaded from disk to memory.
+	 Page table updated at index 95 with frame number 6.
+	 TLB updated with page number 95 and frame number 6.
+	 Value in the memory: 23
+Reading logical address: 48399
+	 Page number: 189
+	 Offset: 15
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 7
+	 Page loaded from disk to memory.
+	 Page table updated at index 189 with frame number 7.
+	 TLB updated with page number 189 and frame number 7.
+	 Value in the memory: 67
+Reading logical address: 64815
+	 Page number: 253
+	 Offset: 47
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 8
+	 Page loaded from disk to memory.
+	 Page table updated at index 253 with frame number 8.
+	 TLB updated with page number 253 and frame number 8.
+	 Value in the memory: 75
+Reading logical address: 18295
+	 Page number: 71
+	 Offset: 119
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 9
+	 Page loaded from disk to memory.
+	 Page table updated at index 71 with frame number 9.
+	 TLB updated with page number 71 and frame number 9.
+	 Value in the memory: -35
+Reading logical address: 12218
+	 Page number: 47
+	 Offset: 186
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 10
+	 Page loaded from disk to memory.
+	 Page table updated at index 47 with frame number 10.
+	 TLB updated with page number 47 and frame number 10.
+	 Value in the memory: 11
+Reading logical address: 22760
+	 Page number: 88
+	 Offset: 232
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 11
+	 Page loaded from disk to memory.
+	 Page table updated at index 88 with frame number 11.
+	 TLB updated with page number 88 and frame number 11.
+	 Value in the memory: 0
+Reading logical address: 57982
+	 Page number: 226
+	 Offset: 126
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 12
+	 Page loaded from disk to memory.
+	 Page table updated at index 226 with frame number 12.
+	 TLB updated with page number 226 and frame number 12.
+	 Value in the memory: 56
+Reading logical address: 27966
+	 Page number: 109
+	 Offset: 62
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 13
+	 Page loaded from disk to memory.
+	 Page table updated at index 109 with frame number 13.
+	 TLB updated with page number 109 and frame number 13.
+	 Value in the memory: 27
+Reading logical address: 54894
+	 Page number: 214
+	 Offset: 110
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 14
+	 Page loaded from disk to memory.
+	 Page table updated at index 214 with frame number 14.
+	 TLB updated with page number 214 and frame number 14.
+	 Value in the memory: 53
+Reading logical address: 38929
+	 Page number: 152
+	 Offset: 17
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 15
+	 Page loaded from disk to memory.
+	 Page table updated at index 152 with frame number 15.
+	 TLB updated with page number 152 and frame number 15.
+	 Value in the memory: 0
+Reading logical address: 32865
+	 Page number: 128
+	 Offset: 97
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 16
+	 Page loaded from disk to memory.
+	 Page table updated at index 128 with frame number 16.
+	 TLB updated with page number 128 and frame number 16.
+	 Value in the memory: 0
+Reading logical address: 64243
+	 Page number: 250
+	 Offset: 243
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 17
+	 Page loaded from disk to memory.
+	 Page table updated at index 250 with frame number 17.
+	 TLB updated with page number 250 and frame number 17.
+	 Value in the memory: -68
+Reading logical address: 2315
+	 Page number: 9
+	 Offset: 11
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 18
+	 Page loaded from disk to memory.
+	 Page table updated at index 9 with frame number 18.
+	 TLB updated with page number 9 and frame number 18.
+	 Value in the memory: 66
+Reading logical address: 64454
+	 Page number: 251
+	 Offset: 198
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 19
+	 Page loaded from disk to memory.
+	 Page table updated at index 251 with frame number 19.
+	 TLB updated with page number 251 and frame number 19.
+	 Value in the memory: 62
+Reading logical address: 55041
+	 Page number: 215
+	 Offset: 1
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 20
+	 Page loaded from disk to memory.
+	 Page table updated at index 215 with frame number 20.
+	 TLB updated with page number 215 and frame number 20.
+	 Value in the memory: 0
+Reading logical address: 18633
+	 Page number: 72
+	 Offset: 201
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 21
+	 Page loaded from disk to memory.
+	 Page table updated at index 72 with frame number 21.
+	 TLB updated with page number 72 and frame number 21.
+	 Value in the memory: 0
+Reading logical address: 14557
+	 Page number: 56
+	 Offset: 221
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 22
+	 Page loaded from disk to memory.
+	 Page table updated at index 56 with frame number 22.
+	 TLB updated with page number 56 and frame number 22.
+	 Value in the memory: 0
+Reading logical address: 61006
+	 Page number: 238
+	 Offset: 78
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 23
+	 Page loaded from disk to memory.
+	 Page table updated at index 238 with frame number 23.
+	 TLB updated with page number 238 and frame number 23.
+	 Value in the memory: 59
+Reading logical address: 62615
+	 Page number: 244
+	 Offset: 151
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 37
+Reading logical address: 7591
+	 Page number: 29
+	 Offset: 167
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 24
+	 Page loaded from disk to memory.
+	 Page table updated at index 29 with frame number 24.
+	 TLB updated with page number 29 and frame number 24.
+	 Value in the memory: 105
+Reading logical address: 64747
+	 Page number: 252
+	 Offset: 235
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 25
+	 Page loaded from disk to memory.
+	 Page table updated at index 252 with frame number 25.
+	 TLB updated with page number 252 and frame number 25.
+	 Value in the memory: 58
+Reading logical address: 6727
+	 Page number: 26
+	 Offset: 71
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 26
+	 Page loaded from disk to memory.
+	 Page table updated at index 26 with frame number 26.
+	 TLB updated with page number 26 and frame number 26.
+	 Value in the memory: -111
+Reading logical address: 32315
+	 Page number: 126
+	 Offset: 59
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 27
+	 Page loaded from disk to memory.
+	 Page table updated at index 126 with frame number 27.
+	 TLB updated with page number 126 and frame number 27.
+	 Value in the memory: -114
+Reading logical address: 60645
+	 Page number: 236
+	 Offset: 229
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 28
+	 Page loaded from disk to memory.
+	 Page table updated at index 236 with frame number 28.
+	 TLB updated with page number 236 and frame number 28.
+	 Value in the memory: 0
+Reading logical address: 6308
+	 Page number: 24
+	 Offset: 164
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 29
+	 Page loaded from disk to memory.
+	 Page table updated at index 24 with frame number 29.
+	 TLB updated with page number 24 and frame number 29.
+	 Value in the memory: 0
+Reading logical address: 45688
+	 Page number: 178
+	 Offset: 120
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 30
+	 Page loaded from disk to memory.
+	 Page table updated at index 178 with frame number 30.
+	 TLB updated with page number 178 and frame number 30.
+	 Value in the memory: 0
+Reading logical address: 969
+	 Page number: 3
+	 Offset: 201
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 31
+	 Page loaded from disk to memory.
+	 Page table updated at index 3 with frame number 31.
+	 TLB updated with page number 3 and frame number 31.
+	 Value in the memory: 0
+Reading logical address: 40891
+	 Page number: 159
+	 Offset: 187
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 32
+	 Page loaded from disk to memory.
+	 Page table updated at index 159 with frame number 32.
+	 TLB updated with page number 159 and frame number 32.
+	 Value in the memory: -18
+Reading logical address: 49294
+	 Page number: 192
+	 Offset: 142
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 33
+	 Page loaded from disk to memory.
+	 Page table updated at index 192 with frame number 33.
+	 TLB updated with page number 192 and frame number 33.
+	 Value in the memory: 48
+Reading logical address: 41118
+	 Page number: 160
+	 Offset: 158
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 34
+	 Page loaded from disk to memory.
+	 Page table updated at index 160 with frame number 34.
+	 TLB updated with page number 160 and frame number 34.
+	 Value in the memory: 40
+Reading logical address: 21395
+	 Page number: 83
+	 Offset: 147
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 35
+	 Page loaded from disk to memory.
+	 Page table updated at index 83 with frame number 35.
+	 TLB updated with page number 83 and frame number 35.
+	 Value in the memory: -28
+Reading logical address: 6091
+	 Page number: 23
+	 Offset: 203
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 36
+	 Page loaded from disk to memory.
+	 Page table updated at index 23 with frame number 36.
+	 TLB updated with page number 23 and frame number 36.
+	 Value in the memory: -14
+Reading logical address: 32541
+	 Page number: 127
+	 Offset: 29
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 37
+	 Page loaded from disk to memory.
+	 Page table updated at index 127 with frame number 37.
+	 TLB updated with page number 127 and frame number 37.
+	 Value in the memory: 0
+Reading logical address: 17665
+	 Page number: 69
+	 Offset: 1
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 38
+	 Page loaded from disk to memory.
+	 Page table updated at index 69 with frame number 38.
+	 TLB updated with page number 69 and frame number 38.
+	 Value in the memory: 0
+Reading logical address: 3784
+	 Page number: 14
+	 Offset: 200
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 39
+	 Page loaded from disk to memory.
+	 Page table updated at index 14 with frame number 39.
+	 TLB updated with page number 14 and frame number 39.
+	 Value in the memory: 0
+Reading logical address: 28718
+	 Page number: 112
+	 Offset: 46
+	 TLB miss!
+	 No page fault!
+	 Frame number 5 read from page table.
+	 Value in the memory: 28
+Reading logical address: 59240
+	 Page number: 231
+	 Offset: 104
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 40
+	 Page loaded from disk to memory.
+	 Page table updated at index 231 with frame number 40.
+	 TLB updated with page number 231 and frame number 40.
+	 Value in the memory: 0
+Reading logical address: 40178
+	 Page number: 156
+	 Offset: 242
+	 TLB miss!
+	 No page fault!
+	 Frame number 4 read from page table.
+	 Value in the memory: 39
+Reading logical address: 60086
+	 Page number: 234
+	 Offset: 182
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 41
+	 Page loaded from disk to memory.
+	 Page table updated at index 234 with frame number 41.
+	 TLB updated with page number 234 and frame number 41.
+	 Value in the memory: 58
+Reading logical address: 42252
+	 Page number: 165
+	 Offset: 12
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 42
+	 Page loaded from disk to memory.
+	 Page table updated at index 165 with frame number 42.
+	 TLB updated with page number 165 and frame number 42.
+	 Value in the memory: 0
+Reading logical address: 44770
+	 Page number: 174
+	 Offset: 226
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 43
+	 Page loaded from disk to memory.
+	 Page table updated at index 174 with frame number 43.
+	 TLB updated with page number 174 and frame number 43.
+	 Value in the memory: 43
+Reading logical address: 22514
+	 Page number: 87
+	 Offset: 242
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 44
+	 Page loaded from disk to memory.
+	 Page table updated at index 87 with frame number 44.
+	 TLB updated with page number 87 and frame number 44.
+	 Value in the memory: 21
+Reading logical address: 3067
+	 Page number: 11
+	 Offset: 251
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 45
+	 Page loaded from disk to memory.
+	 Page table updated at index 11 with frame number 45.
+	 TLB updated with page number 11 and frame number 45.
+	 Value in the memory: -2
+Reading logical address: 15757
+	 Page number: 61
+	 Offset: 141
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 46
+	 Page loaded from disk to memory.
+	 Page table updated at index 61 with frame number 46.
+	 TLB updated with page number 61 and frame number 46.
+	 Value in the memory: 0
+Reading logical address: 31649
+	 Page number: 123
+	 Offset: 161
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 47
+	 Page loaded from disk to memory.
+	 Page table updated at index 123 with frame number 47.
+	 TLB updated with page number 123 and frame number 47.
+	 Value in the memory: 0
+Reading logical address: 10842
+	 Page number: 42
+	 Offset: 90
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 48
+	 Page loaded from disk to memory.
+	 Page table updated at index 42 with frame number 48.
+	 TLB updated with page number 42 and frame number 48.
+	 Value in the memory: 10
+Reading logical address: 43765
+	 Page number: 170
+	 Offset: 245
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 49
+	 Page loaded from disk to memory.
+	 Page table updated at index 170 with frame number 49.
+	 TLB updated with page number 170 and frame number 49.
+	 Value in the memory: 0
+Reading logical address: 33405
+	 Page number: 130
+	 Offset: 125
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 50
+	 Page loaded from disk to memory.
+	 Page table updated at index 130 with frame number 50.
+	 TLB updated with page number 130 and frame number 50.
+	 Value in the memory: 0
+Reading logical address: 44954
+	 Page number: 175
+	 Offset: 154
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 51
+	 Page loaded from disk to memory.
+	 Page table updated at index 175 with frame number 51.
+	 TLB updated with page number 175 and frame number 51.
+	 Value in the memory: 43
+Reading logical address: 56657
+	 Page number: 221
+	 Offset: 81
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 52
+	 Page loaded from disk to memory.
+	 Page table updated at index 221 with frame number 52.
+	 TLB updated with page number 221 and frame number 52.
+	 Value in the memory: 0
+Reading logical address: 5003
+	 Page number: 19
+	 Offset: 139
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 53
+	 Page loaded from disk to memory.
+	 Page table updated at index 19 with frame number 53.
+	 TLB updated with page number 19 and frame number 53.
+	 Value in the memory: -30
+Reading logical address: 50227
+	 Page number: 196
+	 Offset: 51
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 54
+	 Page loaded from disk to memory.
+	 Page table updated at index 196 with frame number 54.
+	 TLB updated with page number 196 and frame number 54.
+	 Value in the memory: 12
+Reading logical address: 19358
+	 Page number: 75
+	 Offset: 158
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 55
+	 Page loaded from disk to memory.
+	 Page table updated at index 75 with frame number 55.
+	 TLB updated with page number 75 and frame number 55.
+	 Value in the memory: 18
+Reading logical address: 36529
+	 Page number: 142
+	 Offset: 177
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 56
+	 Page loaded from disk to memory.
+	 Page table updated at index 142 with frame number 56.
+	 TLB updated with page number 142 and frame number 56.
+	 Value in the memory: 0
+Reading logical address: 10392
+	 Page number: 40
+	 Offset: 152
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 57
+	 Page loaded from disk to memory.
+	 Page table updated at index 40 with frame number 57.
+	 TLB updated with page number 40 and frame number 57.
+	 Value in the memory: 0
+Reading logical address: 58882
+	 Page number: 230
+	 Offset: 2
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 58
+	 Page loaded from disk to memory.
+	 Page table updated at index 230 with frame number 58.
+	 TLB updated with page number 230 and frame number 58.
+	 Value in the memory: 57
+Reading logical address: 5129
+	 Page number: 20
+	 Offset: 9
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 59
+	 Page loaded from disk to memory.
+	 Page table updated at index 20 with frame number 59.
+	 TLB updated with page number 20 and frame number 59.
+	 Value in the memory: 0
+Reading logical address: 58554
+	 Page number: 228
+	 Offset: 186
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 60
+	 Page loaded from disk to memory.
+	 Page table updated at index 228 with frame number 60.
+	 TLB updated with page number 228 and frame number 60.
+	 Value in the memory: 57
+Reading logical address: 58584
+	 Page number: 228
+	 Offset: 216
+	 TLB hit! Frame number: 60 
+	 Value in the memory: 0
+Reading logical address: 27444
+	 Page number: 107
+	 Offset: 52
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 61
+	 Page loaded from disk to memory.
+	 Page table updated at index 107 with frame number 61.
+	 TLB updated with page number 107 and frame number 61.
+	 Value in the memory: 0
+Reading logical address: 58982
+	 Page number: 230
+	 Offset: 102
+	 TLB hit! Frame number: 58 
+	 Value in the memory: 57
+Reading logical address: 51476
+	 Page number: 201
+	 Offset: 20
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 62
+	 Page loaded from disk to memory.
+	 Page table updated at index 201 with frame number 62.
+	 TLB updated with page number 201 and frame number 62.
+	 Value in the memory: 0
+Reading logical address: 6796
+	 Page number: 26
+	 Offset: 140
+	 TLB miss!
+	 No page fault!
+	 Frame number 26 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21311
+	 Page number: 83
+	 Offset: 63
+	 TLB miss!
+	 No page fault!
+	 Frame number 35 read from page table.
+	 Value in the memory: -49
+Reading logical address: 30705
+	 Page number: 119
+	 Offset: 241
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 63
+	 Page loaded from disk to memory.
+	 Page table updated at index 119 with frame number 63.
+	 TLB updated with page number 119 and frame number 63.
+	 Value in the memory: 0
+Reading logical address: 28964
+	 Page number: 113
+	 Offset: 36
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 64
+	 Page loaded from disk to memory.
+	 Page table updated at index 113 with frame number 64.
+	 TLB updated with page number 113 and frame number 64.
+	 Value in the memory: 0
+Reading logical address: 41003
+	 Page number: 160
+	 Offset: 43
+	 TLB miss!
+	 No page fault!
+	 Frame number 34 read from page table.
+	 Value in the memory: 10
+Reading logical address: 20259
+	 Page number: 79
+	 Offset: 35
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 65
+	 Page loaded from disk to memory.
+	 Page table updated at index 79 with frame number 65.
+	 TLB updated with page number 79 and frame number 65.
+	 Value in the memory: -56
+Reading logical address: 57857
+	 Page number: 226
+	 Offset: 1
+	 TLB miss!
+	 No page fault!
+	 Frame number 12 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63258
+	 Page number: 247
+	 Offset: 26
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 66
+	 Page loaded from disk to memory.
+	 Page table updated at index 247 with frame number 66.
+	 TLB updated with page number 247 and frame number 66.
+	 Value in the memory: 61
+Reading logical address: 36374
+	 Page number: 142
+	 Offset: 22
+	 TLB hit! Frame number: 56 
+	 Value in the memory: 35
+Reading logical address: 692
+	 Page number: 2
+	 Offset: 180
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 67
+	 Page loaded from disk to memory.
+	 Page table updated at index 2 with frame number 67.
+	 TLB updated with page number 2 and frame number 67.
+	 Value in the memory: 0
+Reading logical address: 43121
+	 Page number: 168
+	 Offset: 113
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 68
+	 Page loaded from disk to memory.
+	 Page table updated at index 168 with frame number 68.
+	 TLB updated with page number 168 and frame number 68.
+	 Value in the memory: 0
+Reading logical address: 48128
+	 Page number: 188
+	 Offset: 0
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 69
+	 Page loaded from disk to memory.
+	 Page table updated at index 188 with frame number 69.
+	 TLB updated with page number 188 and frame number 69.
+	 Value in the memory: 0
+Reading logical address: 34561
+	 Page number: 135
+	 Offset: 1
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 70
+	 Page loaded from disk to memory.
+	 Page table updated at index 135 with frame number 70.
+	 TLB updated with page number 135 and frame number 70.
+	 Value in the memory: 0
+Reading logical address: 49213
+	 Page number: 192
+	 Offset: 61
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36922
+	 Page number: 144
+	 Offset: 58
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 71
+	 Page loaded from disk to memory.
+	 Page table updated at index 144 with frame number 71.
+	 TLB updated with page number 144 and frame number 71.
+	 Value in the memory: 36
+Reading logical address: 59162
+	 Page number: 231
+	 Offset: 26
+	 TLB miss!
+	 No page fault!
+	 Frame number 40 read from page table.
+	 Value in the memory: 57
+Reading logical address: 50552
+	 Page number: 197
+	 Offset: 120
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 72
+	 Page loaded from disk to memory.
+	 Page table updated at index 197 with frame number 72.
+	 TLB updated with page number 197 and frame number 72.
+	 Value in the memory: 0
+Reading logical address: 17866
+	 Page number: 69
+	 Offset: 202
+	 TLB miss!
+	 No page fault!
+	 Frame number 38 read from page table.
+	 Value in the memory: 17
+Reading logical address: 18145
+	 Page number: 70
+	 Offset: 225
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 73
+	 Page loaded from disk to memory.
+	 Page table updated at index 70 with frame number 73.
+	 TLB updated with page number 70 and frame number 73.
+	 Value in the memory: 0
+Reading logical address: 3884
+	 Page number: 15
+	 Offset: 44
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 74
+	 Page loaded from disk to memory.
+	 Page table updated at index 15 with frame number 74.
+	 TLB updated with page number 15 and frame number 74.
+	 Value in the memory: 0
+Reading logical address: 54388
+	 Page number: 212
+	 Offset: 116
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 75
+	 Page loaded from disk to memory.
+	 Page table updated at index 212 with frame number 75.
+	 TLB updated with page number 212 and frame number 75.
+	 Value in the memory: 0
+Reading logical address: 42932
+	 Page number: 167
+	 Offset: 180
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 76
+	 Page loaded from disk to memory.
+	 Page table updated at index 167 with frame number 76.
+	 TLB updated with page number 167 and frame number 76.
+	 Value in the memory: 0
+Reading logical address: 46919
+	 Page number: 183
+	 Offset: 71
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 77
+	 Page loaded from disk to memory.
+	 Page table updated at index 183 with frame number 77.
+	 TLB updated with page number 183 and frame number 77.
+	 Value in the memory: -47
+Reading logical address: 58892
+	 Page number: 230
+	 Offset: 12
+	 TLB miss!
+	 No page fault!
+	 Frame number 58 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8620
+	 Page number: 33
+	 Offset: 172
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 78
+	 Page loaded from disk to memory.
+	 Page table updated at index 33 with frame number 78.
+	 TLB updated with page number 33 and frame number 78.
+	 Value in the memory: 0
+Reading logical address: 38336
+	 Page number: 149
+	 Offset: 192
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 79
+	 Page loaded from disk to memory.
+	 Page table updated at index 149 with frame number 79.
+	 TLB updated with page number 149 and frame number 79.
+	 Value in the memory: 0
+Reading logical address: 64357
+	 Page number: 251
+	 Offset: 101
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23387
+	 Page number: 91
+	 Offset: 91
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 80
+	 Page loaded from disk to memory.
+	 Page table updated at index 91 with frame number 80.
+	 TLB updated with page number 91 and frame number 80.
+	 Value in the memory: -42
+Reading logical address: 42632
+	 Page number: 166
+	 Offset: 136
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 81
+	 Page loaded from disk to memory.
+	 Page table updated at index 166 with frame number 81.
+	 TLB updated with page number 166 and frame number 81.
+	 Value in the memory: 0
+Reading logical address: 15913
+	 Page number: 62
+	 Offset: 41
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 82
+	 Page loaded from disk to memory.
+	 Page table updated at index 62 with frame number 82.
+	 TLB updated with page number 62 and frame number 82.
+	 Value in the memory: 0
+Reading logical address: 15679
+	 Page number: 61
+	 Offset: 63
+	 TLB miss!
+	 No page fault!
+	 Frame number 46 read from page table.
+	 Value in the memory: 79
+Reading logical address: 22501
+	 Page number: 87
+	 Offset: 229
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: 0
+Reading logical address: 37540
+	 Page number: 146
+	 Offset: 164
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 83
+	 Page loaded from disk to memory.
+	 Page table updated at index 146 with frame number 83.
+	 TLB updated with page number 146 and frame number 83.
+	 Value in the memory: 0
+Reading logical address: 5527
+	 Page number: 21
+	 Offset: 151
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 84
+	 Page loaded from disk to memory.
+	 Page table updated at index 21 with frame number 84.
+	 TLB updated with page number 21 and frame number 84.
+	 Value in the memory: 101
+Reading logical address: 63921
+	 Page number: 249
+	 Offset: 177
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 85
+	 Page loaded from disk to memory.
+	 Page table updated at index 249 with frame number 85.
+	 TLB updated with page number 249 and frame number 85.
+	 Value in the memory: 0
+Reading logical address: 62716
+	 Page number: 244
+	 Offset: 252
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32874
+	 Page number: 128
+	 Offset: 106
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 32
+Reading logical address: 64390
+	 Page number: 251
+	 Offset: 134
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: 62
+Reading logical address: 63101
+	 Page number: 246
+	 Offset: 125
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 86
+	 Page loaded from disk to memory.
+	 Page table updated at index 246 with frame number 86.
+	 TLB updated with page number 246 and frame number 86.
+	 Value in the memory: 0
+Reading logical address: 61802
+	 Page number: 241
+	 Offset: 106
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 87
+	 Page loaded from disk to memory.
+	 Page table updated at index 241 with frame number 87.
+	 TLB updated with page number 241 and frame number 87.
+	 Value in the memory: 60
+Reading logical address: 19648
+	 Page number: 76
+	 Offset: 192
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 88
+	 Page loaded from disk to memory.
+	 Page table updated at index 76 with frame number 88.
+	 TLB updated with page number 76 and frame number 88.
+	 Value in the memory: 0
+Reading logical address: 29031
+	 Page number: 113
+	 Offset: 103
+	 TLB miss!
+	 No page fault!
+	 Frame number 64 read from page table.
+	 Value in the memory: 89
+Reading logical address: 44981
+	 Page number: 175
+	 Offset: 181
+	 TLB miss!
+	 No page fault!
+	 Frame number 51 read from page table.
+	 Value in the memory: 0
+Reading logical address: 28092
+	 Page number: 109
+	 Offset: 188
+	 TLB miss!
+	 No page fault!
+	 Frame number 13 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9448
+	 Page number: 36
+	 Offset: 232
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 89
+	 Page loaded from disk to memory.
+	 Page table updated at index 36 with frame number 89.
+	 TLB updated with page number 36 and frame number 89.
+	 Value in the memory: 0
+Reading logical address: 44744
+	 Page number: 174
+	 Offset: 200
+	 TLB miss!
+	 No page fault!
+	 Frame number 43 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61496
+	 Page number: 240
+	 Offset: 56
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 90
+	 Page loaded from disk to memory.
+	 Page table updated at index 240 with frame number 90.
+	 TLB updated with page number 240 and frame number 90.
+	 Value in the memory: 0
+Reading logical address: 31453
+	 Page number: 122
+	 Offset: 221
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 91
+	 Page loaded from disk to memory.
+	 Page table updated at index 122 with frame number 91.
+	 TLB updated with page number 122 and frame number 91.
+	 Value in the memory: 0
+Reading logical address: 60746
+	 Page number: 237
+	 Offset: 74
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 92
+	 Page loaded from disk to memory.
+	 Page table updated at index 237 with frame number 92.
+	 TLB updated with page number 237 and frame number 92.
+	 Value in the memory: 59
+Reading logical address: 12199
+	 Page number: 47
+	 Offset: 167
+	 TLB miss!
+	 No page fault!
+	 Frame number 10 read from page table.
+	 Value in the memory: -23
+Reading logical address: 62255
+	 Page number: 243
+	 Offset: 47
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 93
+	 Page loaded from disk to memory.
+	 Page table updated at index 243 with frame number 93.
+	 TLB updated with page number 243 and frame number 93.
+	 Value in the memory: -53
+Reading logical address: 21793
+	 Page number: 85
+	 Offset: 33
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 94
+	 Page loaded from disk to memory.
+	 Page table updated at index 85 with frame number 94.
+	 TLB updated with page number 85 and frame number 94.
+	 Value in the memory: 0
+Reading logical address: 26544
+	 Page number: 103
+	 Offset: 176
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 95
+	 Page loaded from disk to memory.
+	 Page table updated at index 103 with frame number 95.
+	 TLB updated with page number 103 and frame number 95.
+	 Value in the memory: 0
+Reading logical address: 14964
+	 Page number: 58
+	 Offset: 116
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 96
+	 Page loaded from disk to memory.
+	 Page table updated at index 58 with frame number 96.
+	 TLB updated with page number 58 and frame number 96.
+	 Value in the memory: 0
+Reading logical address: 41462
+	 Page number: 161
+	 Offset: 246
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 97
+	 Page loaded from disk to memory.
+	 Page table updated at index 161 with frame number 97.
+	 TLB updated with page number 161 and frame number 97.
+	 Value in the memory: 40
+Reading logical address: 56089
+	 Page number: 219
+	 Offset: 25
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 98
+	 Page loaded from disk to memory.
+	 Page table updated at index 219 with frame number 98.
+	 TLB updated with page number 219 and frame number 98.
+	 Value in the memory: 0
+Reading logical address: 52038
+	 Page number: 203
+	 Offset: 70
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 99
+	 Page loaded from disk to memory.
+	 Page table updated at index 203 with frame number 99.
+	 TLB updated with page number 203 and frame number 99.
+	 Value in the memory: 50
+Reading logical address: 47982
+	 Page number: 187
+	 Offset: 110
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 100
+	 Page loaded from disk to memory.
+	 Page table updated at index 187 with frame number 100.
+	 TLB updated with page number 187 and frame number 100.
+	 Value in the memory: 46
+Reading logical address: 59484
+	 Page number: 232
+	 Offset: 92
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 101
+	 Page loaded from disk to memory.
+	 Page table updated at index 232 with frame number 101.
+	 TLB updated with page number 232 and frame number 101.
+	 Value in the memory: 0
+Reading logical address: 50924
+	 Page number: 198
+	 Offset: 236
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 102
+	 Page loaded from disk to memory.
+	 Page table updated at index 198 with frame number 102.
+	 TLB updated with page number 198 and frame number 102.
+	 Value in the memory: 0
+Reading logical address: 6942
+	 Page number: 27
+	 Offset: 30
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 103
+	 Page loaded from disk to memory.
+	 Page table updated at index 27 with frame number 103.
+	 TLB updated with page number 27 and frame number 103.
+	 Value in the memory: 6
+Reading logical address: 34998
+	 Page number: 136
+	 Offset: 182
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 104
+	 Page loaded from disk to memory.
+	 Page table updated at index 136 with frame number 104.
+	 TLB updated with page number 136 and frame number 104.
+	 Value in the memory: 34
+Reading logical address: 27069
+	 Page number: 105
+	 Offset: 189
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 105
+	 Page loaded from disk to memory.
+	 Page table updated at index 105 with frame number 105.
+	 TLB updated with page number 105 and frame number 105.
+	 Value in the memory: 0
+Reading logical address: 51926
+	 Page number: 202
+	 Offset: 214
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 106
+	 Page loaded from disk to memory.
+	 Page table updated at index 202 with frame number 106.
+	 TLB updated with page number 202 and frame number 106.
+	 Value in the memory: 50
+Reading logical address: 60645
+	 Page number: 236
+	 Offset: 229
+	 TLB miss!
+	 No page fault!
+	 Frame number 28 read from page table.
+	 Value in the memory: 0
+Reading logical address: 43181
+	 Page number: 168
+	 Offset: 173
+	 TLB miss!
+	 No page fault!
+	 Frame number 68 read from page table.
+	 Value in the memory: 0
+Reading logical address: 10559
+	 Page number: 41
+	 Offset: 63
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 107
+	 Page loaded from disk to memory.
+	 Page table updated at index 41 with frame number 107.
+	 TLB updated with page number 41 and frame number 107.
+	 Value in the memory: 79
+Reading logical address: 4664
+	 Page number: 18
+	 Offset: 56
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 108
+	 Page loaded from disk to memory.
+	 Page table updated at index 18 with frame number 108.
+	 TLB updated with page number 18 and frame number 108.
+	 Value in the memory: 0
+Reading logical address: 28578
+	 Page number: 111
+	 Offset: 162
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 109
+	 Page loaded from disk to memory.
+	 Page table updated at index 111 with frame number 109.
+	 TLB updated with page number 111 and frame number 109.
+	 Value in the memory: 27
+Reading logical address: 59516
+	 Page number: 232
+	 Offset: 124
+	 TLB hit! Frame number: 101 
+	 Value in the memory: 0
+Reading logical address: 38912
+	 Page number: 152
+	 Offset: 0
+	 TLB miss!
+	 No page fault!
+	 Frame number 15 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63562
+	 Page number: 248
+	 Offset: 74
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 110
+	 Page loaded from disk to memory.
+	 Page table updated at index 248 with frame number 110.
+	 TLB updated with page number 248 and frame number 110.
+	 Value in the memory: 62
+Reading logical address: 64846
+	 Page number: 253
+	 Offset: 78
+	 TLB miss!
+	 No page fault!
+	 Frame number 8 read from page table.
+	 Value in the memory: 63
+Reading logical address: 62938
+	 Page number: 245
+	 Offset: 218
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 111
+	 Page loaded from disk to memory.
+	 Page table updated at index 245 with frame number 111.
+	 TLB updated with page number 245 and frame number 111.
+	 Value in the memory: 61
+Reading logical address: 27194
+	 Page number: 106
+	 Offset: 58
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 112
+	 Page loaded from disk to memory.
+	 Page table updated at index 106 with frame number 112.
+	 TLB updated with page number 106 and frame number 112.
+	 Value in the memory: 26
+Reading logical address: 28804
+	 Page number: 112
+	 Offset: 132
+	 TLB miss!
+	 No page fault!
+	 Frame number 5 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61703
+	 Page number: 241
+	 Offset: 7
+	 TLB miss!
+	 No page fault!
+	 Frame number 87 read from page table.
+	 Value in the memory: 65
+Reading logical address: 10998
+	 Page number: 42
+	 Offset: 246
+	 TLB miss!
+	 No page fault!
+	 Frame number 48 read from page table.
+	 Value in the memory: 10
+Reading logical address: 6596
+	 Page number: 25
+	 Offset: 196
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 113
+	 Page loaded from disk to memory.
+	 Page table updated at index 25 with frame number 113.
+	 TLB updated with page number 25 and frame number 113.
+	 Value in the memory: 0
+Reading logical address: 37721
+	 Page number: 147
+	 Offset: 89
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 114
+	 Page loaded from disk to memory.
+	 Page table updated at index 147 with frame number 114.
+	 TLB updated with page number 147 and frame number 114.
+	 Value in the memory: 0
+Reading logical address: 43430
+	 Page number: 169
+	 Offset: 166
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 115
+	 Page loaded from disk to memory.
+	 Page table updated at index 169 with frame number 115.
+	 TLB updated with page number 169 and frame number 115.
+	 Value in the memory: 42
+Reading logical address: 22692
+	 Page number: 88
+	 Offset: 164
+	 TLB miss!
+	 No page fault!
+	 Frame number 11 read from page table.
+	 Value in the memory: 0
+Reading logical address: 62971
+	 Page number: 245
+	 Offset: 251
+	 TLB hit! Frame number: 111 
+	 Value in the memory: 126
+Reading logical address: 47125
+	 Page number: 184
+	 Offset: 21
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 116
+	 Page loaded from disk to memory.
+	 Page table updated at index 184 with frame number 116.
+	 TLB updated with page number 184 and frame number 116.
+	 Value in the memory: 0
+Reading logical address: 52521
+	 Page number: 205
+	 Offset: 41
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 117
+	 Page loaded from disk to memory.
+	 Page table updated at index 205 with frame number 117.
+	 TLB updated with page number 205 and frame number 117.
+	 Value in the memory: 0
+Reading logical address: 34646
+	 Page number: 135
+	 Offset: 86
+	 TLB miss!
+	 No page fault!
+	 Frame number 70 read from page table.
+	 Value in the memory: 33
+Reading logical address: 32889
+	 Page number: 128
+	 Offset: 121
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 0
+Reading logical address: 13055
+	 Page number: 50
+	 Offset: 255
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 118
+	 Page loaded from disk to memory.
+	 Page table updated at index 50 with frame number 118.
+	 TLB updated with page number 50 and frame number 118.
+	 Value in the memory: -65
+Reading logical address: 65416
+	 Page number: 255
+	 Offset: 136
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 119
+	 Page loaded from disk to memory.
+	 Page table updated at index 255 with frame number 119.
+	 TLB updated with page number 255 and frame number 119.
+	 Value in the memory: 0
+Reading logical address: 62869
+	 Page number: 245
+	 Offset: 149
+	 TLB hit! Frame number: 111 
+	 Value in the memory: 0
+Reading logical address: 57314
+	 Page number: 223
+	 Offset: 226
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 120
+	 Page loaded from disk to memory.
+	 Page table updated at index 223 with frame number 120.
+	 TLB updated with page number 223 and frame number 120.
+	 Value in the memory: 55
+Reading logical address: 12659
+	 Page number: 49
+	 Offset: 115
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 121
+	 Page loaded from disk to memory.
+	 Page table updated at index 49 with frame number 121.
+	 TLB updated with page number 49 and frame number 121.
+	 Value in the memory: 92
+Reading logical address: 14052
+	 Page number: 54
+	 Offset: 228
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 122
+	 Page loaded from disk to memory.
+	 Page table updated at index 54 with frame number 122.
+	 TLB updated with page number 54 and frame number 122.
+	 Value in the memory: 0
+Reading logical address: 32956
+	 Page number: 128
+	 Offset: 188
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 0
+Reading logical address: 49273
+	 Page number: 192
+	 Offset: 121
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50352
+	 Page number: 196
+	 Offset: 176
+	 TLB miss!
+	 No page fault!
+	 Frame number 54 read from page table.
+	 Value in the memory: 0
+Reading logical address: 49737
+	 Page number: 194
+	 Offset: 73
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 123
+	 Page loaded from disk to memory.
+	 Page table updated at index 194 with frame number 123.
+	 TLB updated with page number 194 and frame number 123.
+	 Value in the memory: 0
+Reading logical address: 15555
+	 Page number: 60
+	 Offset: 195
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 124
+	 Page loaded from disk to memory.
+	 Page table updated at index 60 with frame number 124.
+	 TLB updated with page number 60 and frame number 124.
+	 Value in the memory: 48
+Reading logical address: 47475
+	 Page number: 185
+	 Offset: 115
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 125
+	 Page loaded from disk to memory.
+	 Page table updated at index 185 with frame number 125.
+	 TLB updated with page number 185 and frame number 125.
+	 Value in the memory: 92
+Reading logical address: 15328
+	 Page number: 59
+	 Offset: 224
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 126
+	 Page loaded from disk to memory.
+	 Page table updated at index 59 with frame number 126.
+	 TLB updated with page number 59 and frame number 126.
+	 Value in the memory: 0
+Reading logical address: 34621
+	 Page number: 135
+	 Offset: 61
+	 TLB miss!
+	 No page fault!
+	 Frame number 70 read from page table.
+	 Value in the memory: 0
+Reading logical address: 51365
+	 Page number: 200
+	 Offset: 165
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 127
+	 Page loaded from disk to memory.
+	 Page table updated at index 200 with frame number 127.
+	 TLB updated with page number 200 and frame number 127.
+	 Value in the memory: 0
+Reading logical address: 32820
+	 Page number: 128
+	 Offset: 52
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 0
+Reading logical address: 48855
+	 Page number: 190
+	 Offset: 215
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 128
+	 Page loaded from disk to memory.
+	 Page table updated at index 190 with frame number 128.
+	 TLB updated with page number 190 and frame number 128.
+	 Value in the memory: -75
+Reading logical address: 12224
+	 Page number: 47
+	 Offset: 192
+	 TLB miss!
+	 No page fault!
+	 Frame number 10 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2035
+	 Page number: 7
+	 Offset: 243
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 129
+	 Page loaded from disk to memory.
+	 Page table updated at index 7 with frame number 129.
+	 TLB updated with page number 7 and frame number 129.
+	 Value in the memory: -4
+Reading logical address: 60539
+	 Page number: 236
+	 Offset: 123
+	 TLB miss!
+	 No page fault!
+	 Frame number 28 read from page table.
+	 Value in the memory: 30
+Reading logical address: 14595
+	 Page number: 57
+	 Offset: 3
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 130
+	 Page loaded from disk to memory.
+	 Page table updated at index 57 with frame number 130.
+	 TLB updated with page number 57 and frame number 130.
+	 Value in the memory: 64
+Reading logical address: 13853
+	 Page number: 54
+	 Offset: 29
+	 TLB hit! Frame number: 122 
+	 Value in the memory: 0
+Reading logical address: 24143
+	 Page number: 94
+	 Offset: 79
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 131
+	 Page loaded from disk to memory.
+	 Page table updated at index 94 with frame number 131.
+	 TLB updated with page number 94 and frame number 131.
+	 Value in the memory: -109
+Reading logical address: 15216
+	 Page number: 59
+	 Offset: 112
+	 TLB hit! Frame number: 126 
+	 Value in the memory: 0
+Reading logical address: 8113
+	 Page number: 31
+	 Offset: 177
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 132
+	 Page loaded from disk to memory.
+	 Page table updated at index 31 with frame number 132.
+	 TLB updated with page number 31 and frame number 132.
+	 Value in the memory: 0
+Reading logical address: 22640
+	 Page number: 88
+	 Offset: 112
+	 TLB miss!
+	 No page fault!
+	 Frame number 11 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32978
+	 Page number: 128
+	 Offset: 210
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 32
+Reading logical address: 39151
+	 Page number: 152
+	 Offset: 239
+	 TLB miss!
+	 No page fault!
+	 Frame number 15 read from page table.
+	 Value in the memory: 59
+Reading logical address: 19520
+	 Page number: 76
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 88 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58141
+	 Page number: 227
+	 Offset: 29
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 133
+	 Page loaded from disk to memory.
+	 Page table updated at index 227 with frame number 133.
+	 TLB updated with page number 227 and frame number 133.
+	 Value in the memory: 0
+Reading logical address: 63959
+	 Page number: 249
+	 Offset: 215
+	 TLB miss!
+	 No page fault!
+	 Frame number 85 read from page table.
+	 Value in the memory: 117
+Reading logical address: 53040
+	 Page number: 207
+	 Offset: 48
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 134
+	 Page loaded from disk to memory.
+	 Page table updated at index 207 with frame number 134.
+	 TLB updated with page number 207 and frame number 134.
+	 Value in the memory: 0
+Reading logical address: 55842
+	 Page number: 218
+	 Offset: 34
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 135
+	 Page loaded from disk to memory.
+	 Page table updated at index 218 with frame number 135.
+	 TLB updated with page number 218 and frame number 135.
+	 Value in the memory: 54
+Reading logical address: 585
+	 Page number: 2
+	 Offset: 73
+	 TLB miss!
+	 No page fault!
+	 Frame number 67 read from page table.
+	 Value in the memory: 0
+Reading logical address: 51229
+	 Page number: 200
+	 Offset: 29
+	 TLB hit! Frame number: 127 
+	 Value in the memory: 0
+Reading logical address: 64181
+	 Page number: 250
+	 Offset: 181
+	 TLB miss!
+	 No page fault!
+	 Frame number 17 read from page table.
+	 Value in the memory: 0
+Reading logical address: 54879
+	 Page number: 214
+	 Offset: 95
+	 TLB miss!
+	 No page fault!
+	 Frame number 14 read from page table.
+	 Value in the memory: -105
+Reading logical address: 28210
+	 Page number: 110
+	 Offset: 50
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 136
+	 Page loaded from disk to memory.
+	 Page table updated at index 110 with frame number 136.
+	 TLB updated with page number 110 and frame number 136.
+	 Value in the memory: 27
+Reading logical address: 10268
+	 Page number: 40
+	 Offset: 28
+	 TLB miss!
+	 No page fault!
+	 Frame number 57 read from page table.
+	 Value in the memory: 0
+Reading logical address: 15395
+	 Page number: 60
+	 Offset: 35
+	 TLB hit! Frame number: 124 
+	 Value in the memory: 8
+Reading logical address: 12884
+	 Page number: 50
+	 Offset: 84
+	 TLB miss!
+	 No page fault!
+	 Frame number 118 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2149
+	 Page number: 8
+	 Offset: 101
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 137
+	 Page loaded from disk to memory.
+	 Page table updated at index 8 with frame number 137.
+	 TLB updated with page number 8 and frame number 137.
+	 Value in the memory: 0
+Reading logical address: 53483
+	 Page number: 208
+	 Offset: 235
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 138
+	 Page loaded from disk to memory.
+	 Page table updated at index 208 with frame number 138.
+	 TLB updated with page number 208 and frame number 138.
+	 Value in the memory: 58
+Reading logical address: 59606
+	 Page number: 232
+	 Offset: 214
+	 TLB miss!
+	 No page fault!
+	 Frame number 101 read from page table.
+	 Value in the memory: 58
+Reading logical address: 14981
+	 Page number: 58
+	 Offset: 133
+	 TLB miss!
+	 No page fault!
+	 Frame number 96 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36672
+	 Page number: 143
+	 Offset: 64
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 139
+	 Page loaded from disk to memory.
+	 Page table updated at index 143 with frame number 139.
+	 TLB updated with page number 143 and frame number 139.
+	 Value in the memory: 0
+Reading logical address: 23197
+	 Page number: 90
+	 Offset: 157
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 140
+	 Page loaded from disk to memory.
+	 Page table updated at index 90 with frame number 140.
+	 TLB updated with page number 90 and frame number 140.
+	 Value in the memory: 0
+Reading logical address: 36518
+	 Page number: 142
+	 Offset: 166
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 35
+Reading logical address: 13361
+	 Page number: 52
+	 Offset: 49
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 141
+	 Page loaded from disk to memory.
+	 Page table updated at index 52 with frame number 141.
+	 TLB updated with page number 52 and frame number 141.
+	 Value in the memory: 0
+Reading logical address: 19810
+	 Page number: 77
+	 Offset: 98
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 142
+	 Page loaded from disk to memory.
+	 Page table updated at index 77 with frame number 142.
+	 TLB updated with page number 77 and frame number 142.
+	 Value in the memory: 19
+Reading logical address: 25955
+	 Page number: 101
+	 Offset: 99
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 143
+	 Page loaded from disk to memory.
+	 Page table updated at index 101 with frame number 143.
+	 TLB updated with page number 101 and frame number 143.
+	 Value in the memory: 88
+Reading logical address: 62678
+	 Page number: 244
+	 Offset: 214
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 61
+Reading logical address: 26021
+	 Page number: 101
+	 Offset: 165
+	 TLB hit! Frame number: 143 
+	 Value in the memory: 0
+Reading logical address: 29409
+	 Page number: 114
+	 Offset: 225
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 144
+	 Page loaded from disk to memory.
+	 Page table updated at index 114 with frame number 144.
+	 TLB updated with page number 114 and frame number 144.
+	 Value in the memory: 0
+Reading logical address: 38111
+	 Page number: 148
+	 Offset: 223
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 145
+	 Page loaded from disk to memory.
+	 Page table updated at index 148 with frame number 145.
+	 TLB updated with page number 148 and frame number 145.
+	 Value in the memory: 55
+Reading logical address: 58573
+	 Page number: 228
+	 Offset: 205
+	 TLB miss!
+	 No page fault!
+	 Frame number 60 read from page table.
+	 Value in the memory: 0
+Reading logical address: 56840
+	 Page number: 222
+	 Offset: 8
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 146
+	 Page loaded from disk to memory.
+	 Page table updated at index 222 with frame number 146.
+	 TLB updated with page number 222 and frame number 146.
+	 Value in the memory: 0
+Reading logical address: 41306
+	 Page number: 161
+	 Offset: 90
+	 TLB miss!
+	 No page fault!
+	 Frame number 97 read from page table.
+	 Value in the memory: 40
+Reading logical address: 54426
+	 Page number: 212
+	 Offset: 154
+	 TLB miss!
+	 No page fault!
+	 Frame number 75 read from page table.
+	 Value in the memory: 53
+Reading logical address: 3617
+	 Page number: 14
+	 Offset: 33
+	 TLB miss!
+	 No page fault!
+	 Frame number 39 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50652
+	 Page number: 197
+	 Offset: 220
+	 TLB miss!
+	 No page fault!
+	 Frame number 72 read from page table.
+	 Value in the memory: 0
+Reading logical address: 41452
+	 Page number: 161
+	 Offset: 236
+	 TLB miss!
+	 No page fault!
+	 Frame number 97 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20241
+	 Page number: 79
+	 Offset: 17
+	 TLB miss!
+	 No page fault!
+	 Frame number 65 read from page table.
+	 Value in the memory: 0
+Reading logical address: 31723
+	 Page number: 123
+	 Offset: 235
+	 TLB miss!
+	 No page fault!
+	 Frame number 47 read from page table.
+	 Value in the memory: -6
+Reading logical address: 53747
+	 Page number: 209
+	 Offset: 243
+	 TLB miss!
+	 No page fault!
+	 Frame number 3 read from page table.
+	 Value in the memory: 124
+Reading logical address: 28550
+	 Page number: 111
+	 Offset: 134
+	 TLB miss!
+	 No page fault!
+	 Frame number 109 read from page table.
+	 Value in the memory: 27
+Reading logical address: 23402
+	 Page number: 91
+	 Offset: 106
+	 TLB miss!
+	 No page fault!
+	 Frame number 80 read from page table.
+	 Value in the memory: 22
+Reading logical address: 21205
+	 Page number: 82
+	 Offset: 213
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 147
+	 Page loaded from disk to memory.
+	 Page table updated at index 82 with frame number 147.
+	 TLB updated with page number 82 and frame number 147.
+	 Value in the memory: 0
+Reading logical address: 56181
+	 Page number: 219
+	 Offset: 117
+	 TLB miss!
+	 No page fault!
+	 Frame number 98 read from page table.
+	 Value in the memory: 0
+Reading logical address: 57470
+	 Page number: 224
+	 Offset: 126
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 148
+	 Page loaded from disk to memory.
+	 Page table updated at index 224 with frame number 148.
+	 TLB updated with page number 224 and frame number 148.
+	 Value in the memory: 56
+Reading logical address: 39933
+	 Page number: 155
+	 Offset: 253
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 149
+	 Page loaded from disk to memory.
+	 Page table updated at index 155 with frame number 149.
+	 TLB updated with page number 155 and frame number 149.
+	 Value in the memory: 0
+Reading logical address: 34964
+	 Page number: 136
+	 Offset: 148
+	 TLB miss!
+	 No page fault!
+	 Frame number 104 read from page table.
+	 Value in the memory: 0
+Reading logical address: 24781
+	 Page number: 96
+	 Offset: 205
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 150
+	 Page loaded from disk to memory.
+	 Page table updated at index 96 with frame number 150.
+	 TLB updated with page number 96 and frame number 150.
+	 Value in the memory: 0
+Reading logical address: 41747
+	 Page number: 163
+	 Offset: 19
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 151
+	 Page loaded from disk to memory.
+	 Page table updated at index 163 with frame number 151.
+	 TLB updated with page number 163 and frame number 151.
+	 Value in the memory: -60
+Reading logical address: 62564
+	 Page number: 244
+	 Offset: 100
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58461
+	 Page number: 228
+	 Offset: 93
+	 TLB miss!
+	 No page fault!
+	 Frame number 60 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20858
+	 Page number: 81
+	 Offset: 122
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 152
+	 Page loaded from disk to memory.
+	 Page table updated at index 81 with frame number 152.
+	 TLB updated with page number 81 and frame number 152.
+	 Value in the memory: 20
+Reading logical address: 49301
+	 Page number: 192
+	 Offset: 149
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 0
+Reading logical address: 40572
+	 Page number: 158
+	 Offset: 124
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 153
+	 Page loaded from disk to memory.
+	 Page table updated at index 158 with frame number 153.
+	 TLB updated with page number 158 and frame number 153.
+	 Value in the memory: 0
+Reading logical address: 23840
+	 Page number: 93
+	 Offset: 32
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 154
+	 Page loaded from disk to memory.
+	 Page table updated at index 93 with frame number 154.
+	 TLB updated with page number 93 and frame number 154.
+	 Value in the memory: 0
+Reading logical address: 35278
+	 Page number: 137
+	 Offset: 206
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 155
+	 Page loaded from disk to memory.
+	 Page table updated at index 137 with frame number 155.
+	 TLB updated with page number 137 and frame number 155.
+	 Value in the memory: 34
+Reading logical address: 62905
+	 Page number: 245
+	 Offset: 185
+	 TLB miss!
+	 No page fault!
+	 Frame number 111 read from page table.
+	 Value in the memory: 0
+Reading logical address: 56650
+	 Page number: 221
+	 Offset: 74
+	 TLB miss!
+	 No page fault!
+	 Frame number 52 read from page table.
+	 Value in the memory: 55
+Reading logical address: 11149
+	 Page number: 43
+	 Offset: 141
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 156
+	 Page loaded from disk to memory.
+	 Page table updated at index 43 with frame number 156.
+	 TLB updated with page number 43 and frame number 156.
+	 Value in the memory: 0
+Reading logical address: 38920
+	 Page number: 152
+	 Offset: 8
+	 TLB miss!
+	 No page fault!
+	 Frame number 15 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23430
+	 Page number: 91
+	 Offset: 134
+	 TLB miss!
+	 No page fault!
+	 Frame number 80 read from page table.
+	 Value in the memory: 22
+Reading logical address: 57592
+	 Page number: 224
+	 Offset: 248
+	 TLB hit! Frame number: 148 
+	 Value in the memory: 0
+Reading logical address: 3080
+	 Page number: 12
+	 Offset: 8
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 157
+	 Page loaded from disk to memory.
+	 Page table updated at index 12 with frame number 157.
+	 TLB updated with page number 12 and frame number 157.
+	 Value in the memory: 0
+Reading logical address: 6677
+	 Page number: 26
+	 Offset: 21
+	 TLB miss!
+	 No page fault!
+	 Frame number 26 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50704
+	 Page number: 198
+	 Offset: 16
+	 TLB miss!
+	 No page fault!
+	 Frame number 102 read from page table.
+	 Value in the memory: 0
+Reading logical address: 51883
+	 Page number: 202
+	 Offset: 171
+	 TLB miss!
+	 No page fault!
+	 Frame number 106 read from page table.
+	 Value in the memory: -86
+Reading logical address: 62799
+	 Page number: 245
+	 Offset: 79
+	 TLB miss!
+	 No page fault!
+	 Frame number 111 read from page table.
+	 Value in the memory: 83
+Reading logical address: 20188
+	 Page number: 78
+	 Offset: 220
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 158
+	 Page loaded from disk to memory.
+	 Page table updated at index 78 with frame number 158.
+	 TLB updated with page number 78 and frame number 158.
+	 Value in the memory: 0
+Reading logical address: 1245
+	 Page number: 4
+	 Offset: 221
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 159
+	 Page loaded from disk to memory.
+	 Page table updated at index 4 with frame number 159.
+	 TLB updated with page number 4 and frame number 159.
+	 Value in the memory: 0
+Reading logical address: 12220
+	 Page number: 47
+	 Offset: 188
+	 TLB miss!
+	 No page fault!
+	 Frame number 10 read from page table.
+	 Value in the memory: 0
+Reading logical address: 17602
+	 Page number: 68
+	 Offset: 194
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 160
+	 Page loaded from disk to memory.
+	 Page table updated at index 68 with frame number 160.
+	 TLB updated with page number 68 and frame number 160.
+	 Value in the memory: 17
+Reading logical address: 28609
+	 Page number: 111
+	 Offset: 193
+	 TLB miss!
+	 No page fault!
+	 Frame number 109 read from page table.
+	 Value in the memory: 0
+Reading logical address: 42694
+	 Page number: 166
+	 Offset: 198
+	 TLB miss!
+	 No page fault!
+	 Frame number 81 read from page table.
+	 Value in the memory: 41
+Reading logical address: 29826
+	 Page number: 116
+	 Offset: 130
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 161
+	 Page loaded from disk to memory.
+	 Page table updated at index 116 with frame number 161.
+	 TLB updated with page number 116 and frame number 161.
+	 Value in the memory: 29
+Reading logical address: 13827
+	 Page number: 54
+	 Offset: 3
+	 TLB miss!
+	 No page fault!
+	 Frame number 122 read from page table.
+	 Value in the memory: -128
+Reading logical address: 27336
+	 Page number: 106
+	 Offset: 200
+	 TLB miss!
+	 No page fault!
+	 Frame number 112 read from page table.
+	 Value in the memory: 0
+Reading logical address: 53343
+	 Page number: 208
+	 Offset: 95
+	 TLB miss!
+	 No page fault!
+	 Frame number 138 read from page table.
+	 Value in the memory: 23
+Reading logical address: 11533
+	 Page number: 45
+	 Offset: 13
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 162
+	 Page loaded from disk to memory.
+	 Page table updated at index 45 with frame number 162.
+	 TLB updated with page number 45 and frame number 162.
+	 Value in the memory: 0
+Reading logical address: 41713
+	 Page number: 162
+	 Offset: 241
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 163
+	 Page loaded from disk to memory.
+	 Page table updated at index 162 with frame number 163.
+	 TLB updated with page number 162 and frame number 163.
+	 Value in the memory: 0
+Reading logical address: 33890
+	 Page number: 132
+	 Offset: 98
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 164
+	 Page loaded from disk to memory.
+	 Page table updated at index 132 with frame number 164.
+	 TLB updated with page number 132 and frame number 164.
+	 Value in the memory: 33
+Reading logical address: 4894
+	 Page number: 19
+	 Offset: 30
+	 TLB miss!
+	 No page fault!
+	 Frame number 53 read from page table.
+	 Value in the memory: 4
+Reading logical address: 57599
+	 Page number: 224
+	 Offset: 255
+	 TLB miss!
+	 No page fault!
+	 Frame number 148 read from page table.
+	 Value in the memory: 63
+Reading logical address: 3870
+	 Page number: 15
+	 Offset: 30
+	 TLB miss!
+	 No page fault!
+	 Frame number 74 read from page table.
+	 Value in the memory: 3
+Reading logical address: 58622
+	 Page number: 228
+	 Offset: 254
+	 TLB miss!
+	 No page fault!
+	 Frame number 60 read from page table.
+	 Value in the memory: 57
+Reading logical address: 29780
+	 Page number: 116
+	 Offset: 84
+	 TLB hit! Frame number: 161 
+	 Value in the memory: 0
+Reading logical address: 62553
+	 Page number: 244
+	 Offset: 89
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2303
+	 Page number: 8
+	 Offset: 255
+	 TLB miss!
+	 No page fault!
+	 Frame number 137 read from page table.
+	 Value in the memory: 63
+Reading logical address: 51915
+	 Page number: 202
+	 Offset: 203
+	 TLB miss!
+	 No page fault!
+	 Frame number 106 read from page table.
+	 Value in the memory: -78
+Reading logical address: 6251
+	 Page number: 24
+	 Offset: 107
+	 TLB miss!
+	 No page fault!
+	 Frame number 29 read from page table.
+	 Value in the memory: 26
+Reading logical address: 38107
+	 Page number: 148
+	 Offset: 219
+	 TLB miss!
+	 No page fault!
+	 Frame number 145 read from page table.
+	 Value in the memory: 54
+Reading logical address: 59325
+	 Page number: 231
+	 Offset: 189
+	 TLB miss!
+	 No page fault!
+	 Frame number 40 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61295
+	 Page number: 239
+	 Offset: 111
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 165
+	 Page loaded from disk to memory.
+	 Page table updated at index 239 with frame number 165.
+	 TLB updated with page number 239 and frame number 165.
+	 Value in the memory: -37
+Reading logical address: 26699
+	 Page number: 104
+	 Offset: 75
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 166
+	 Page loaded from disk to memory.
+	 Page table updated at index 104 with frame number 166.
+	 TLB updated with page number 104 and frame number 166.
+	 Value in the memory: 18
+Reading logical address: 51188
+	 Page number: 199
+	 Offset: 244
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 167
+	 Page loaded from disk to memory.
+	 Page table updated at index 199 with frame number 167.
+	 TLB updated with page number 199 and frame number 167.
+	 Value in the memory: 0
+Reading logical address: 59519
+	 Page number: 232
+	 Offset: 127
+	 TLB miss!
+	 No page fault!
+	 Frame number 101 read from page table.
+	 Value in the memory: 31
+Reading logical address: 7345
+	 Page number: 28
+	 Offset: 177
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 168
+	 Page loaded from disk to memory.
+	 Page table updated at index 28 with frame number 168.
+	 TLB updated with page number 28 and frame number 168.
+	 Value in the memory: 0
+Reading logical address: 20325
+	 Page number: 79
+	 Offset: 101
+	 TLB miss!
+	 No page fault!
+	 Frame number 65 read from page table.
+	 Value in the memory: 0
+Reading logical address: 39633
+	 Page number: 154
+	 Offset: 209
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 169
+	 Page loaded from disk to memory.
+	 Page table updated at index 154 with frame number 169.
+	 TLB updated with page number 154 and frame number 169.
+	 Value in the memory: 0
+Reading logical address: 1562
+	 Page number: 6
+	 Offset: 26
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 170
+	 Page loaded from disk to memory.
+	 Page table updated at index 6 with frame number 170.
+	 TLB updated with page number 6 and frame number 170.
+	 Value in the memory: 1
+Reading logical address: 7580
+	 Page number: 29
+	 Offset: 156
+	 TLB miss!
+	 No page fault!
+	 Frame number 24 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8170
+	 Page number: 31
+	 Offset: 234
+	 TLB miss!
+	 No page fault!
+	 Frame number 132 read from page table.
+	 Value in the memory: 7
+Reading logical address: 62256
+	 Page number: 243
+	 Offset: 48
+	 TLB miss!
+	 No page fault!
+	 Frame number 93 read from page table.
+	 Value in the memory: 0
+Reading logical address: 35823
+	 Page number: 139
+	 Offset: 239
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 171
+	 Page loaded from disk to memory.
+	 Page table updated at index 139 with frame number 171.
+	 TLB updated with page number 139 and frame number 171.
+	 Value in the memory: -5
+Reading logical address: 27790
+	 Page number: 108
+	 Offset: 142
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 172
+	 Page loaded from disk to memory.
+	 Page table updated at index 108 with frame number 172.
+	 TLB updated with page number 108 and frame number 172.
+	 Value in the memory: 27
+Reading logical address: 13191
+	 Page number: 51
+	 Offset: 135
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 173
+	 Page loaded from disk to memory.
+	 Page table updated at index 51 with frame number 173.
+	 TLB updated with page number 51 and frame number 173.
+	 Value in the memory: -31
+Reading logical address: 9772
+	 Page number: 38
+	 Offset: 44
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 174
+	 Page loaded from disk to memory.
+	 Page table updated at index 38 with frame number 174.
+	 TLB updated with page number 38 and frame number 174.
+	 Value in the memory: 0
+Reading logical address: 7477
+	 Page number: 29
+	 Offset: 53
+	 TLB miss!
+	 No page fault!
+	 Frame number 24 read from page table.
+	 Value in the memory: 0
+Reading logical address: 44455
+	 Page number: 173
+	 Offset: 167
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 175
+	 Page loaded from disk to memory.
+	 Page table updated at index 173 with frame number 175.
+	 TLB updated with page number 173 and frame number 175.
+	 Value in the memory: 105
+Reading logical address: 59546
+	 Page number: 232
+	 Offset: 154
+	 TLB miss!
+	 No page fault!
+	 Frame number 101 read from page table.
+	 Value in the memory: 58
+Reading logical address: 49347
+	 Page number: 192
+	 Offset: 195
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 48
+Reading logical address: 36539
+	 Page number: 142
+	 Offset: 187
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: -82
+Reading logical address: 12453
+	 Page number: 48
+	 Offset: 165
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 176
+	 Page loaded from disk to memory.
+	 Page table updated at index 48 with frame number 176.
+	 TLB updated with page number 48 and frame number 176.
+	 Value in the memory: 0
+Reading logical address: 49640
+	 Page number: 193
+	 Offset: 232
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 177
+	 Page loaded from disk to memory.
+	 Page table updated at index 193 with frame number 177.
+	 TLB updated with page number 193 and frame number 177.
+	 Value in the memory: 0
+Reading logical address: 28290
+	 Page number: 110
+	 Offset: 130
+	 TLB miss!
+	 No page fault!
+	 Frame number 136 read from page table.
+	 Value in the memory: 27
+Reading logical address: 44817
+	 Page number: 175
+	 Offset: 17
+	 TLB miss!
+	 No page fault!
+	 Frame number 51 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8565
+	 Page number: 33
+	 Offset: 117
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 0
+Reading logical address: 16399
+	 Page number: 64
+	 Offset: 15
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 178
+	 Page loaded from disk to memory.
+	 Page table updated at index 64 with frame number 178.
+	 TLB updated with page number 64 and frame number 178.
+	 Value in the memory: 3
+Reading logical address: 41934
+	 Page number: 163
+	 Offset: 206
+	 TLB miss!
+	 No page fault!
+	 Frame number 151 read from page table.
+	 Value in the memory: 40
+Reading logical address: 45457
+	 Page number: 177
+	 Offset: 145
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 179
+	 Page loaded from disk to memory.
+	 Page table updated at index 177 with frame number 179.
+	 TLB updated with page number 177 and frame number 179.
+	 Value in the memory: 0
+Reading logical address: 33856
+	 Page number: 132
+	 Offset: 64
+	 TLB hit! Frame number: 164 
+	 Value in the memory: 0
+Reading logical address: 19498
+	 Page number: 76
+	 Offset: 42
+	 TLB miss!
+	 No page fault!
+	 Frame number 88 read from page table.
+	 Value in the memory: 19
+Reading logical address: 17661
+	 Page number: 68
+	 Offset: 253
+	 TLB miss!
+	 No page fault!
+	 Frame number 160 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63829
+	 Page number: 249
+	 Offset: 85
+	 TLB miss!
+	 No page fault!
+	 Frame number 85 read from page table.
+	 Value in the memory: 0
+Reading logical address: 42034
+	 Page number: 164
+	 Offset: 50
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 180
+	 Page loaded from disk to memory.
+	 Page table updated at index 164 with frame number 180.
+	 TLB updated with page number 164 and frame number 180.
+	 Value in the memory: 41
+Reading logical address: 28928
+	 Page number: 113
+	 Offset: 0
+	 TLB miss!
+	 No page fault!
+	 Frame number 64 read from page table.
+	 Value in the memory: 0
+Reading logical address: 30711
+	 Page number: 119
+	 Offset: 247
+	 TLB miss!
+	 No page fault!
+	 Frame number 63 read from page table.
+	 Value in the memory: -3
+Reading logical address: 8800
+	 Page number: 34
+	 Offset: 96
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 181
+	 Page loaded from disk to memory.
+	 Page table updated at index 34 with frame number 181.
+	 TLB updated with page number 34 and frame number 181.
+	 Value in the memory: 0
+Reading logical address: 52335
+	 Page number: 204
+	 Offset: 111
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 182
+	 Page loaded from disk to memory.
+	 Page table updated at index 204 with frame number 182.
+	 TLB updated with page number 204 and frame number 182.
+	 Value in the memory: 27
+Reading logical address: 38775
+	 Page number: 151
+	 Offset: 119
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 183
+	 Page loaded from disk to memory.
+	 Page table updated at index 151 with frame number 183.
+	 TLB updated with page number 151 and frame number 183.
+	 Value in the memory: -35
+Reading logical address: 52704
+	 Page number: 205
+	 Offset: 224
+	 TLB miss!
+	 No page fault!
+	 Frame number 117 read from page table.
+	 Value in the memory: 0
+Reading logical address: 24380
+	 Page number: 95
+	 Offset: 60
+	 TLB miss!
+	 No page fault!
+	 Frame number 6 read from page table.
+	 Value in the memory: 0
+Reading logical address: 19602
+	 Page number: 76
+	 Offset: 146
+	 TLB miss!
+	 No page fault!
+	 Frame number 88 read from page table.
+	 Value in the memory: 19
+Reading logical address: 57998
+	 Page number: 226
+	 Offset: 142
+	 TLB miss!
+	 No page fault!
+	 Frame number 12 read from page table.
+	 Value in the memory: 56
+Reading logical address: 2919
+	 Page number: 11
+	 Offset: 103
+	 TLB miss!
+	 No page fault!
+	 Frame number 45 read from page table.
+	 Value in the memory: -39
+Reading logical address: 8362
+	 Page number: 32
+	 Offset: 170
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 184
+	 Page loaded from disk to memory.
+	 Page table updated at index 32 with frame number 184.
+	 TLB updated with page number 32 and frame number 184.
+	 Value in the memory: 8
+Reading logical address: 17884
+	 Page number: 69
+	 Offset: 220
+	 TLB miss!
+	 No page fault!
+	 Frame number 38 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45737
+	 Page number: 178
+	 Offset: 169
+	 TLB miss!
+	 No page fault!
+	 Frame number 30 read from page table.
+	 Value in the memory: 0
+Reading logical address: 47894
+	 Page number: 187
+	 Offset: 22
+	 TLB miss!
+	 No page fault!
+	 Frame number 100 read from page table.
+	 Value in the memory: 46
+Reading logical address: 59667
+	 Page number: 233
+	 Offset: 19
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 185
+	 Page loaded from disk to memory.
+	 Page table updated at index 233 with frame number 185.
+	 TLB updated with page number 233 and frame number 185.
+	 Value in the memory: 68
+Reading logical address: 10385
+	 Page number: 40
+	 Offset: 145
+	 TLB miss!
+	 No page fault!
+	 Frame number 57 read from page table.
+	 Value in the memory: 0
+Reading logical address: 52782
+	 Page number: 206
+	 Offset: 46
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 186
+	 Page loaded from disk to memory.
+	 Page table updated at index 206 with frame number 186.
+	 TLB updated with page number 206 and frame number 186.
+	 Value in the memory: 51
+Reading logical address: 64416
+	 Page number: 251
+	 Offset: 160
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: 0
+Reading logical address: 40946
+	 Page number: 159
+	 Offset: 242
+	 TLB miss!
+	 No page fault!
+	 Frame number 32 read from page table.
+	 Value in the memory: 39
+Reading logical address: 16778
+	 Page number: 65
+	 Offset: 138
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 187
+	 Page loaded from disk to memory.
+	 Page table updated at index 65 with frame number 187.
+	 TLB updated with page number 65 and frame number 187.
+	 Value in the memory: 16
+Reading logical address: 27159
+	 Page number: 106
+	 Offset: 23
+	 TLB miss!
+	 No page fault!
+	 Frame number 112 read from page table.
+	 Value in the memory: -123
+Reading logical address: 24324
+	 Page number: 95
+	 Offset: 4
+	 TLB miss!
+	 No page fault!
+	 Frame number 6 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32450
+	 Page number: 126
+	 Offset: 194
+	 TLB miss!
+	 No page fault!
+	 Frame number 27 read from page table.
+	 Value in the memory: 31
+Reading logical address: 9108
+	 Page number: 35
+	 Offset: 148
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 188
+	 Page loaded from disk to memory.
+	 Page table updated at index 35 with frame number 188.
+	 TLB updated with page number 35 and frame number 188.
+	 Value in the memory: 0
+Reading logical address: 65305
+	 Page number: 255
+	 Offset: 25
+	 TLB miss!
+	 No page fault!
+	 Frame number 119 read from page table.
+	 Value in the memory: 0
+Reading logical address: 19575
+	 Page number: 76
+	 Offset: 119
+	 TLB miss!
+	 No page fault!
+	 Frame number 88 read from page table.
+	 Value in the memory: 29
+Reading logical address: 11117
+	 Page number: 43
+	 Offset: 109
+	 TLB miss!
+	 No page fault!
+	 Frame number 156 read from page table.
+	 Value in the memory: 0
+Reading logical address: 65170
+	 Page number: 254
+	 Offset: 146
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 189
+	 Page loaded from disk to memory.
+	 Page table updated at index 254 with frame number 189.
+	 TLB updated with page number 254 and frame number 189.
+	 Value in the memory: 63
+Reading logical address: 58013
+	 Page number: 226
+	 Offset: 157
+	 TLB miss!
+	 No page fault!
+	 Frame number 12 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61676
+	 Page number: 240
+	 Offset: 236
+	 TLB miss!
+	 No page fault!
+	 Frame number 90 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63510
+	 Page number: 248
+	 Offset: 22
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 62
+Reading logical address: 17458
+	 Page number: 68
+	 Offset: 50
+	 TLB miss!
+	 No page fault!
+	 Frame number 160 read from page table.
+	 Value in the memory: 17
+Reading logical address: 54675
+	 Page number: 213
+	 Offset: 147
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 190
+	 Page loaded from disk to memory.
+	 Page table updated at index 213 with frame number 190.
+	 TLB updated with page number 213 and frame number 190.
+	 Value in the memory: 100
+Reading logical address: 1713
+	 Page number: 6
+	 Offset: 177
+	 TLB miss!
+	 No page fault!
+	 Frame number 170 read from page table.
+	 Value in the memory: 0
+Reading logical address: 55105
+	 Page number: 215
+	 Offset: 65
+	 TLB miss!
+	 No page fault!
+	 Frame number 20 read from page table.
+	 Value in the memory: 0
+Reading logical address: 65321
+	 Page number: 255
+	 Offset: 41
+	 TLB miss!
+	 No page fault!
+	 Frame number 119 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45278
+	 Page number: 176
+	 Offset: 222
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 191
+	 Page loaded from disk to memory.
+	 Page table updated at index 176 with frame number 191.
+	 TLB updated with page number 176 and frame number 191.
+	 Value in the memory: 44
+Reading logical address: 26256
+	 Page number: 102
+	 Offset: 144
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 192
+	 Page loaded from disk to memory.
+	 Page table updated at index 102 with frame number 192.
+	 TLB updated with page number 102 and frame number 192.
+	 Value in the memory: 0
+Reading logical address: 64198
+	 Page number: 250
+	 Offset: 198
+	 TLB miss!
+	 No page fault!
+	 Frame number 17 read from page table.
+	 Value in the memory: 62
+Reading logical address: 29441
+	 Page number: 115
+	 Offset: 1
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 193
+	 Page loaded from disk to memory.
+	 Page table updated at index 115 with frame number 193.
+	 TLB updated with page number 115 and frame number 193.
+	 Value in the memory: 0
+Reading logical address: 1928
+	 Page number: 7
+	 Offset: 136
+	 TLB miss!
+	 No page fault!
+	 Frame number 129 read from page table.
+	 Value in the memory: 0
+Reading logical address: 39425
+	 Page number: 154
+	 Offset: 1
+	 TLB miss!
+	 No page fault!
+	 Frame number 169 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32000
+	 Page number: 125
+	 Offset: 0
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 194
+	 Page loaded from disk to memory.
+	 Page table updated at index 125 with frame number 194.
+	 TLB updated with page number 125 and frame number 194.
+	 Value in the memory: 0
+Reading logical address: 28549
+	 Page number: 111
+	 Offset: 133
+	 TLB miss!
+	 No page fault!
+	 Frame number 109 read from page table.
+	 Value in the memory: 0
+Reading logical address: 46295
+	 Page number: 180
+	 Offset: 215
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 195
+	 Page loaded from disk to memory.
+	 Page table updated at index 180 with frame number 195.
+	 TLB updated with page number 180 and frame number 195.
+	 Value in the memory: 53
+Reading logical address: 22772
+	 Page number: 88
+	 Offset: 244
+	 TLB miss!
+	 No page fault!
+	 Frame number 11 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58228
+	 Page number: 227
+	 Offset: 116
+	 TLB miss!
+	 No page fault!
+	 Frame number 133 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63525
+	 Page number: 248
+	 Offset: 37
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32602
+	 Page number: 127
+	 Offset: 90
+	 TLB miss!
+	 No page fault!
+	 Frame number 37 read from page table.
+	 Value in the memory: 31
+Reading logical address: 46195
+	 Page number: 180
+	 Offset: 115
+	 TLB hit! Frame number: 195 
+	 Value in the memory: 28
+Reading logical address: 55849
+	 Page number: 218
+	 Offset: 41
+	 TLB miss!
+	 No page fault!
+	 Frame number 135 read from page table.
+	 Value in the memory: 0
+Reading logical address: 46454
+	 Page number: 181
+	 Offset: 118
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 196
+	 Page loaded from disk to memory.
+	 Page table updated at index 181 with frame number 196.
+	 TLB updated with page number 181 and frame number 196.
+	 Value in the memory: 45
+Reading logical address: 7487
+	 Page number: 29
+	 Offset: 63
+	 TLB miss!
+	 No page fault!
+	 Frame number 24 read from page table.
+	 Value in the memory: 79
+Reading logical address: 33879
+	 Page number: 132
+	 Offset: 87
+	 TLB miss!
+	 No page fault!
+	 Frame number 164 read from page table.
+	 Value in the memory: 21
+Reading logical address: 42004
+	 Page number: 164
+	 Offset: 20
+	 TLB miss!
+	 No page fault!
+	 Frame number 180 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8599
+	 Page number: 33
+	 Offset: 151
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 101
+Reading logical address: 18641
+	 Page number: 72
+	 Offset: 209
+	 TLB miss!
+	 No page fault!
+	 Frame number 21 read from page table.
+	 Value in the memory: 0
+Reading logical address: 49015
+	 Page number: 191
+	 Offset: 119
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 197
+	 Page loaded from disk to memory.
+	 Page table updated at index 191 with frame number 197.
+	 TLB updated with page number 191 and frame number 197.
+	 Value in the memory: -35
+Reading logical address: 26830
+	 Page number: 104
+	 Offset: 206
+	 TLB miss!
+	 No page fault!
+	 Frame number 166 read from page table.
+	 Value in the memory: 26
+Reading logical address: 34754
+	 Page number: 135
+	 Offset: 194
+	 TLB miss!
+	 No page fault!
+	 Frame number 70 read from page table.
+	 Value in the memory: 33
+Reading logical address: 14668
+	 Page number: 57
+	 Offset: 76
+	 TLB miss!
+	 No page fault!
+	 Frame number 130 read from page table.
+	 Value in the memory: 0
+Reading logical address: 38362
+	 Page number: 149
+	 Offset: 218
+	 TLB miss!
+	 No page fault!
+	 Frame number 79 read from page table.
+	 Value in the memory: 37
+Reading logical address: 38791
+	 Page number: 151
+	 Offset: 135
+	 TLB hit! Frame number: 183 
+	 Value in the memory: -31
+Reading logical address: 4171
+	 Page number: 16
+	 Offset: 75
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 198
+	 Page loaded from disk to memory.
+	 Page table updated at index 16 with frame number 198.
+	 TLB updated with page number 16 and frame number 198.
+	 Value in the memory: 18
+Reading logical address: 45975
+	 Page number: 179
+	 Offset: 151
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 199
+	 Page loaded from disk to memory.
+	 Page table updated at index 179 with frame number 199.
+	 TLB updated with page number 179 and frame number 199.
+	 Value in the memory: -27
+Reading logical address: 14623
+	 Page number: 57
+	 Offset: 31
+	 TLB miss!
+	 No page fault!
+	 Frame number 130 read from page table.
+	 Value in the memory: 71
+Reading logical address: 62393
+	 Page number: 243
+	 Offset: 185
+	 TLB miss!
+	 No page fault!
+	 Frame number 93 read from page table.
+	 Value in the memory: 0
+Reading logical address: 64658
+	 Page number: 252
+	 Offset: 146
+	 TLB miss!
+	 No page fault!
+	 Frame number 25 read from page table.
+	 Value in the memory: 63
+Reading logical address: 10963
+	 Page number: 42
+	 Offset: 211
+	 TLB miss!
+	 No page fault!
+	 Frame number 48 read from page table.
+	 Value in the memory: -76
+Reading logical address: 9058
+	 Page number: 35
+	 Offset: 98
+	 TLB hit! Frame number: 188 
+	 Value in the memory: 8
+Reading logical address: 51031
+	 Page number: 199
+	 Offset: 87
+	 TLB miss!
+	 No page fault!
+	 Frame number 167 read from page table.
+	 Value in the memory: -43
+Reading logical address: 32425
+	 Page number: 126
+	 Offset: 169
+	 TLB miss!
+	 No page fault!
+	 Frame number 27 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45483
+	 Page number: 177
+	 Offset: 171
+	 TLB miss!
+	 No page fault!
+	 Frame number 179 read from page table.
+	 Value in the memory: 106
+Reading logical address: 44611
+	 Page number: 174
+	 Offset: 67
+	 TLB miss!
+	 No page fault!
+	 Frame number 43 read from page table.
+	 Value in the memory: -112
+Reading logical address: 63664
+	 Page number: 248
+	 Offset: 176
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 0
+Reading logical address: 54920
+	 Page number: 214
+	 Offset: 136
+	 TLB miss!
+	 No page fault!
+	 Frame number 14 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7663
+	 Page number: 29
+	 Offset: 239
+	 TLB miss!
+	 No page fault!
+	 Frame number 24 read from page table.
+	 Value in the memory: 123
+Reading logical address: 56480
+	 Page number: 220
+	 Offset: 160
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 200
+	 Page loaded from disk to memory.
+	 Page table updated at index 220 with frame number 200.
+	 TLB updated with page number 220 and frame number 200.
+	 Value in the memory: 0
+Reading logical address: 1489
+	 Page number: 5
+	 Offset: 209
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 201
+	 Page loaded from disk to memory.
+	 Page table updated at index 5 with frame number 201.
+	 TLB updated with page number 5 and frame number 201.
+	 Value in the memory: 0
+Reading logical address: 28438
+	 Page number: 111
+	 Offset: 22
+	 TLB miss!
+	 No page fault!
+	 Frame number 109 read from page table.
+	 Value in the memory: 27
+Reading logical address: 65449
+	 Page number: 255
+	 Offset: 169
+	 TLB miss!
+	 No page fault!
+	 Frame number 119 read from page table.
+	 Value in the memory: 0
+Reading logical address: 12441
+	 Page number: 48
+	 Offset: 153
+	 TLB miss!
+	 No page fault!
+	 Frame number 176 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58530
+	 Page number: 228
+	 Offset: 162
+	 TLB miss!
+	 No page fault!
+	 Frame number 60 read from page table.
+	 Value in the memory: 57
+Reading logical address: 63570
+	 Page number: 248
+	 Offset: 82
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 62
+Reading logical address: 26251
+	 Page number: 102
+	 Offset: 139
+	 TLB hit! Frame number: 192 
+	 Value in the memory: -94
+Reading logical address: 15972
+	 Page number: 62
+	 Offset: 100
+	 TLB miss!
+	 No page fault!
+	 Frame number 82 read from page table.
+	 Value in the memory: 0
+Reading logical address: 35826
+	 Page number: 139
+	 Offset: 242
+	 TLB miss!
+	 No page fault!
+	 Frame number 171 read from page table.
+	 Value in the memory: 34
+Reading logical address: 5491
+	 Page number: 21
+	 Offset: 115
+	 TLB miss!
+	 No page fault!
+	 Frame number 84 read from page table.
+	 Value in the memory: 92
+Reading logical address: 54253
+	 Page number: 211
+	 Offset: 237
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 202
+	 Page loaded from disk to memory.
+	 Page table updated at index 211 with frame number 202.
+	 TLB updated with page number 211 and frame number 202.
+	 Value in the memory: 0
+Reading logical address: 49655
+	 Page number: 193
+	 Offset: 247
+	 TLB miss!
+	 No page fault!
+	 Frame number 177 read from page table.
+	 Value in the memory: 125
+Reading logical address: 5868
+	 Page number: 22
+	 Offset: 236
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 203
+	 Page loaded from disk to memory.
+	 Page table updated at index 22 with frame number 203.
+	 TLB updated with page number 22 and frame number 203.
+	 Value in the memory: 0
+Reading logical address: 20163
+	 Page number: 78
+	 Offset: 195
+	 TLB miss!
+	 No page fault!
+	 Frame number 158 read from page table.
+	 Value in the memory: -80
+Reading logical address: 51079
+	 Page number: 199
+	 Offset: 135
+	 TLB miss!
+	 No page fault!
+	 Frame number 167 read from page table.
+	 Value in the memory: -31
+Reading logical address: 21398
+	 Page number: 83
+	 Offset: 150
+	 TLB miss!
+	 No page fault!
+	 Frame number 35 read from page table.
+	 Value in the memory: 20
+Reading logical address: 32756
+	 Page number: 127
+	 Offset: 244
+	 TLB miss!
+	 No page fault!
+	 Frame number 37 read from page table.
+	 Value in the memory: 0
+Reading logical address: 64196
+	 Page number: 250
+	 Offset: 196
+	 TLB miss!
+	 No page fault!
+	 Frame number 17 read from page table.
+	 Value in the memory: 0
+Reading logical address: 43218
+	 Page number: 168
+	 Offset: 210
+	 TLB miss!
+	 No page fault!
+	 Frame number 68 read from page table.
+	 Value in the memory: 42
+Reading logical address: 21583
+	 Page number: 84
+	 Offset: 79
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 204
+	 Page loaded from disk to memory.
+	 Page table updated at index 84 with frame number 204.
+	 TLB updated with page number 84 and frame number 204.
+	 Value in the memory: 19
+Reading logical address: 25086
+	 Page number: 97
+	 Offset: 254
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 205
+	 Page loaded from disk to memory.
+	 Page table updated at index 97 with frame number 205.
+	 TLB updated with page number 97 and frame number 205.
+	 Value in the memory: 24
+Reading logical address: 45515
+	 Page number: 177
+	 Offset: 203
+	 TLB miss!
+	 No page fault!
+	 Frame number 179 read from page table.
+	 Value in the memory: 114
+Reading logical address: 12893
+	 Page number: 50
+	 Offset: 93
+	 TLB miss!
+	 No page fault!
+	 Frame number 118 read from page table.
+	 Value in the memory: 0
+Reading logical address: 22914
+	 Page number: 89
+	 Offset: 130
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 206
+	 Page loaded from disk to memory.
+	 Page table updated at index 89 with frame number 206.
+	 TLB updated with page number 89 and frame number 206.
+	 Value in the memory: 22
+Reading logical address: 58969
+	 Page number: 230
+	 Offset: 89
+	 TLB miss!
+	 No page fault!
+	 Frame number 58 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20094
+	 Page number: 78
+	 Offset: 126
+	 TLB miss!
+	 No page fault!
+	 Frame number 158 read from page table.
+	 Value in the memory: 19
+Reading logical address: 13730
+	 Page number: 53
+	 Offset: 162
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 207
+	 Page loaded from disk to memory.
+	 Page table updated at index 53 with frame number 207.
+	 TLB updated with page number 53 and frame number 207.
+	 Value in the memory: 13
+Reading logical address: 44059
+	 Page number: 172
+	 Offset: 27
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 208
+	 Page loaded from disk to memory.
+	 Page table updated at index 172 with frame number 208.
+	 TLB updated with page number 172 and frame number 208.
+	 Value in the memory: 6
+Reading logical address: 28931
+	 Page number: 113
+	 Offset: 3
+	 TLB miss!
+	 No page fault!
+	 Frame number 64 read from page table.
+	 Value in the memory: 64
+Reading logical address: 13533
+	 Page number: 52
+	 Offset: 221
+	 TLB miss!
+	 No page fault!
+	 Frame number 141 read from page table.
+	 Value in the memory: 0
+Reading logical address: 33134
+	 Page number: 129
+	 Offset: 110
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 209
+	 Page loaded from disk to memory.
+	 Page table updated at index 129 with frame number 209.
+	 TLB updated with page number 129 and frame number 209.
+	 Value in the memory: 32
+Reading logical address: 28483
+	 Page number: 111
+	 Offset: 67
+	 TLB miss!
+	 No page fault!
+	 Frame number 109 read from page table.
+	 Value in the memory: -48
+Reading logical address: 1220
+	 Page number: 4
+	 Offset: 196
+	 TLB miss!
+	 No page fault!
+	 Frame number 159 read from page table.
+	 Value in the memory: 0
+Reading logical address: 38174
+	 Page number: 149
+	 Offset: 30
+	 TLB miss!
+	 No page fault!
+	 Frame number 79 read from page table.
+	 Value in the memory: 37
+Reading logical address: 53502
+	 Page number: 208
+	 Offset: 254
+	 TLB miss!
+	 No page fault!
+	 Frame number 138 read from page table.
+	 Value in the memory: 52
+Reading logical address: 43328
+	 Page number: 169
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 115 read from page table.
+	 Value in the memory: 0
+Reading logical address: 4970
+	 Page number: 19
+	 Offset: 106
+	 TLB miss!
+	 No page fault!
+	 Frame number 53 read from page table.
+	 Value in the memory: 4
+Reading logical address: 8090
+	 Page number: 31
+	 Offset: 154
+	 TLB miss!
+	 No page fault!
+	 Frame number 132 read from page table.
+	 Value in the memory: 7
+Reading logical address: 2661
+	 Page number: 10
+	 Offset: 101
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 210
+	 Page loaded from disk to memory.
+	 Page table updated at index 10 with frame number 210.
+	 TLB updated with page number 10 and frame number 210.
+	 Value in the memory: 0
+Reading logical address: 53903
+	 Page number: 210
+	 Offset: 143
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 211
+	 Page loaded from disk to memory.
+	 Page table updated at index 210 with frame number 211.
+	 TLB updated with page number 210 and frame number 211.
+	 Value in the memory: -93
+Reading logical address: 11025
+	 Page number: 43
+	 Offset: 17
+	 TLB miss!
+	 No page fault!
+	 Frame number 156 read from page table.
+	 Value in the memory: 0
+Reading logical address: 26627
+	 Page number: 104
+	 Offset: 3
+	 TLB miss!
+	 No page fault!
+	 Frame number 166 read from page table.
+	 Value in the memory: 0
+Reading logical address: 18117
+	 Page number: 70
+	 Offset: 197
+	 TLB miss!
+	 No page fault!
+	 Frame number 73 read from page table.
+	 Value in the memory: 0
+Reading logical address: 14505
+	 Page number: 56
+	 Offset: 169
+	 TLB miss!
+	 No page fault!
+	 Frame number 22 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61528
+	 Page number: 240
+	 Offset: 88
+	 TLB miss!
+	 No page fault!
+	 Frame number 90 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20423
+	 Page number: 79
+	 Offset: 199
+	 TLB miss!
+	 No page fault!
+	 Frame number 65 read from page table.
+	 Value in the memory: -15
+Reading logical address: 26962
+	 Page number: 105
+	 Offset: 82
+	 TLB miss!
+	 No page fault!
+	 Frame number 105 read from page table.
+	 Value in the memory: 26
+Reading logical address: 36392
+	 Page number: 142
+	 Offset: 40
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 0
+Reading logical address: 11365
+	 Page number: 44
+	 Offset: 101
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 212
+	 Page loaded from disk to memory.
+	 Page table updated at index 44 with frame number 212.
+	 TLB updated with page number 44 and frame number 212.
+	 Value in the memory: 0
+Reading logical address: 50882
+	 Page number: 198
+	 Offset: 194
+	 TLB miss!
+	 No page fault!
+	 Frame number 102 read from page table.
+	 Value in the memory: 49
+Reading logical address: 41668
+	 Page number: 162
+	 Offset: 196
+	 TLB miss!
+	 No page fault!
+	 Frame number 163 read from page table.
+	 Value in the memory: 0
+Reading logical address: 30497
+	 Page number: 119
+	 Offset: 33
+	 TLB miss!
+	 No page fault!
+	 Frame number 63 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36216
+	 Page number: 141
+	 Offset: 120
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 213
+	 Page loaded from disk to memory.
+	 Page table updated at index 141 with frame number 213.
+	 TLB updated with page number 141 and frame number 213.
+	 Value in the memory: 0
+Reading logical address: 5619
+	 Page number: 21
+	 Offset: 243
+	 TLB miss!
+	 No page fault!
+	 Frame number 84 read from page table.
+	 Value in the memory: 124
+Reading logical address: 36983
+	 Page number: 144
+	 Offset: 119
+	 TLB miss!
+	 No page fault!
+	 Frame number 71 read from page table.
+	 Value in the memory: 29
+Reading logical address: 59557
+	 Page number: 232
+	 Offset: 165
+	 TLB miss!
+	 No page fault!
+	 Frame number 101 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36663
+	 Page number: 143
+	 Offset: 55
+	 TLB miss!
+	 No page fault!
+	 Frame number 139 read from page table.
+	 Value in the memory: -51
+Reading logical address: 36436
+	 Page number: 142
+	 Offset: 84
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 0
+Reading logical address: 37057
+	 Page number: 144
+	 Offset: 193
+	 TLB miss!
+	 No page fault!
+	 Frame number 71 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23585
+	 Page number: 92
+	 Offset: 33
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 214
+	 Page loaded from disk to memory.
+	 Page table updated at index 92 with frame number 214.
+	 TLB updated with page number 92 and frame number 214.
+	 Value in the memory: 0
+Reading logical address: 58791
+	 Page number: 229
+	 Offset: 167
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 215
+	 Page loaded from disk to memory.
+	 Page table updated at index 229 with frame number 215.
+	 TLB updated with page number 229 and frame number 215.
+	 Value in the memory: 105
+Reading logical address: 46666
+	 Page number: 182
+	 Offset: 74
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 216
+	 Page loaded from disk to memory.
+	 Page table updated at index 182 with frame number 216.
+	 TLB updated with page number 182 and frame number 216.
+	 Value in the memory: 45
+Reading logical address: 64475
+	 Page number: 251
+	 Offset: 219
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: -10
+Reading logical address: 21615
+	 Page number: 84
+	 Offset: 111
+	 TLB hit! Frame number: 204 
+	 Value in the memory: 27
+Reading logical address: 41090
+	 Page number: 160
+	 Offset: 130
+	 TLB miss!
+	 No page fault!
+	 Frame number 34 read from page table.
+	 Value in the memory: 40
+Reading logical address: 1771
+	 Page number: 6
+	 Offset: 235
+	 TLB miss!
+	 No page fault!
+	 Frame number 170 read from page table.
+	 Value in the memory: -70
+Reading logical address: 47513
+	 Page number: 185
+	 Offset: 153
+	 TLB miss!
+	 No page fault!
+	 Frame number 125 read from page table.
+	 Value in the memory: 0
+Reading logical address: 39338
+	 Page number: 153
+	 Offset: 170
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 217
+	 Page loaded from disk to memory.
+	 Page table updated at index 153 with frame number 217.
+	 TLB updated with page number 153 and frame number 217.
+	 Value in the memory: 38
+Reading logical address: 1390
+	 Page number: 5
+	 Offset: 110
+	 TLB miss!
+	 No page fault!
+	 Frame number 201 read from page table.
+	 Value in the memory: 1
+Reading logical address: 38772
+	 Page number: 151
+	 Offset: 116
+	 TLB miss!
+	 No page fault!
+	 Frame number 183 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58149
+	 Page number: 227
+	 Offset: 37
+	 TLB miss!
+	 No page fault!
+	 Frame number 133 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7196
+	 Page number: 28
+	 Offset: 28
+	 TLB miss!
+	 No page fault!
+	 Frame number 168 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9123
+	 Page number: 35
+	 Offset: 163
+	 TLB miss!
+	 No page fault!
+	 Frame number 188 read from page table.
+	 Value in the memory: -24
+Reading logical address: 7491
+	 Page number: 29
+	 Offset: 67
+	 TLB miss!
+	 No page fault!
+	 Frame number 24 read from page table.
+	 Value in the memory: 80
+Reading logical address: 62616
+	 Page number: 244
+	 Offset: 152
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 0
+Reading logical address: 15436
+	 Page number: 60
+	 Offset: 76
+	 TLB miss!
+	 No page fault!
+	 Frame number 124 read from page table.
+	 Value in the memory: 0
+Reading logical address: 17491
+	 Page number: 68
+	 Offset: 83
+	 TLB miss!
+	 No page fault!
+	 Frame number 160 read from page table.
+	 Value in the memory: 20
+Reading logical address: 53656
+	 Page number: 209
+	 Offset: 152
+	 TLB miss!
+	 No page fault!
+	 Frame number 3 read from page table.
+	 Value in the memory: 0
+Reading logical address: 26449
+	 Page number: 103
+	 Offset: 81
+	 TLB miss!
+	 No page fault!
+	 Frame number 95 read from page table.
+	 Value in the memory: 0
+Reading logical address: 34935
+	 Page number: 136
+	 Offset: 119
+	 TLB miss!
+	 No page fault!
+	 Frame number 104 read from page table.
+	 Value in the memory: 29
+Reading logical address: 19864
+	 Page number: 77
+	 Offset: 152
+	 TLB miss!
+	 No page fault!
+	 Frame number 142 read from page table.
+	 Value in the memory: 0
+Reading logical address: 51388
+	 Page number: 200
+	 Offset: 188
+	 TLB miss!
+	 No page fault!
+	 Frame number 127 read from page table.
+	 Value in the memory: 0
+Reading logical address: 15155
+	 Page number: 59
+	 Offset: 51
+	 TLB miss!
+	 No page fault!
+	 Frame number 126 read from page table.
+	 Value in the memory: -52
+Reading logical address: 64775
+	 Page number: 253
+	 Offset: 7
+	 TLB miss!
+	 No page fault!
+	 Frame number 8 read from page table.
+	 Value in the memory: 65
+Reading logical address: 47969
+	 Page number: 187
+	 Offset: 97
+	 TLB miss!
+	 No page fault!
+	 Frame number 100 read from page table.
+	 Value in the memory: 0
+Reading logical address: 16315
+	 Page number: 63
+	 Offset: 187
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 218
+	 Page loaded from disk to memory.
+	 Page table updated at index 63 with frame number 218.
+	 TLB updated with page number 63 and frame number 218.
+	 Value in the memory: -18
+Reading logical address: 1342
+	 Page number: 5
+	 Offset: 62
+	 TLB miss!
+	 No page fault!
+	 Frame number 201 read from page table.
+	 Value in the memory: 1
+Reading logical address: 51185
+	 Page number: 199
+	 Offset: 241
+	 TLB miss!
+	 No page fault!
+	 Frame number 167 read from page table.
+	 Value in the memory: 0
+Reading logical address: 6043
+	 Page number: 23
+	 Offset: 155
+	 TLB miss!
+	 No page fault!
+	 Frame number 36 read from page table.
+	 Value in the memory: -26
+Reading logical address: 21398
+	 Page number: 83
+	 Offset: 150
+	 TLB miss!
+	 No page fault!
+	 Frame number 35 read from page table.
+	 Value in the memory: 20
+Reading logical address: 3273
+	 Page number: 12
+	 Offset: 201
+	 TLB miss!
+	 No page fault!
+	 Frame number 157 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9370
+	 Page number: 36
+	 Offset: 154
+	 TLB miss!
+	 No page fault!
+	 Frame number 89 read from page table.
+	 Value in the memory: 9
+Reading logical address: 35463
+	 Page number: 138
+	 Offset: 135
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 219
+	 Page loaded from disk to memory.
+	 Page table updated at index 138 with frame number 219.
+	 TLB updated with page number 138 and frame number 219.
+	 Value in the memory: -95
+Reading logical address: 28205
+	 Page number: 110
+	 Offset: 45
+	 TLB miss!
+	 No page fault!
+	 Frame number 136 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2351
+	 Page number: 9
+	 Offset: 47
+	 TLB miss!
+	 No page fault!
+	 Frame number 18 read from page table.
+	 Value in the memory: 75
+Reading logical address: 28999
+	 Page number: 113
+	 Offset: 71
+	 TLB miss!
+	 No page fault!
+	 Frame number 64 read from page table.
+	 Value in the memory: 81
+Reading logical address: 47699
+	 Page number: 186
+	 Offset: 83
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 220
+	 Page loaded from disk to memory.
+	 Page table updated at index 186 with frame number 220.
+	 TLB updated with page number 186 and frame number 220.
+	 Value in the memory: -108
+Reading logical address: 46870
+	 Page number: 183
+	 Offset: 22
+	 TLB miss!
+	 No page fault!
+	 Frame number 77 read from page table.
+	 Value in the memory: 45
+Reading logical address: 22311
+	 Page number: 87
+	 Offset: 39
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: -55
+Reading logical address: 22124
+	 Page number: 86
+	 Offset: 108
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 221
+	 Page loaded from disk to memory.
+	 Page table updated at index 86 with frame number 221.
+	 TLB updated with page number 86 and frame number 221.
+	 Value in the memory: 0
+Reading logical address: 22427
+	 Page number: 87
+	 Offset: 155
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: -26
+Reading logical address: 49344
+	 Page number: 192
+	 Offset: 192
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23224
+	 Page number: 90
+	 Offset: 184
+	 TLB miss!
+	 No page fault!
+	 Frame number 140 read from page table.
+	 Value in the memory: 0
+Reading logical address: 5514
+	 Page number: 21
+	 Offset: 138
+	 TLB miss!
+	 No page fault!
+	 Frame number 84 read from page table.
+	 Value in the memory: 5
+Reading logical address: 20504
+	 Page number: 80
+	 Offset: 24
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 222
+	 Page loaded from disk to memory.
+	 Page table updated at index 80 with frame number 222.
+	 TLB updated with page number 80 and frame number 222.
+	 Value in the memory: 0
+Reading logical address: 376
+	 Page number: 1
+	 Offset: 120
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 223
+	 Page loaded from disk to memory.
+	 Page table updated at index 1 with frame number 223.
+	 TLB updated with page number 1 and frame number 223.
+	 Value in the memory: 0
+Reading logical address: 2014
+	 Page number: 7
+	 Offset: 222
+	 TLB miss!
+	 No page fault!
+	 Frame number 129 read from page table.
+	 Value in the memory: 1
+Reading logical address: 38700
+	 Page number: 151
+	 Offset: 44
+	 TLB miss!
+	 No page fault!
+	 Frame number 183 read from page table.
+	 Value in the memory: 0
+Reading logical address: 13098
+	 Page number: 51
+	 Offset: 42
+	 TLB miss!
+	 No page fault!
+	 Frame number 173 read from page table.
+	 Value in the memory: 12
+Reading logical address: 62435
+	 Page number: 243
+	 Offset: 227
+	 TLB miss!
+	 No page fault!
+	 Frame number 93 read from page table.
+	 Value in the memory: -8
+Reading logical address: 48046
+	 Page number: 187
+	 Offset: 174
+	 TLB miss!
+	 No page fault!
+	 Frame number 100 read from page table.
+	 Value in the memory: 46
+Reading logical address: 63464
+	 Page number: 247
+	 Offset: 232
+	 TLB miss!
+	 No page fault!
+	 Frame number 66 read from page table.
+	 Value in the memory: 0
+Reading logical address: 12798
+	 Page number: 49
+	 Offset: 254
+	 TLB miss!
+	 No page fault!
+	 Frame number 121 read from page table.
+	 Value in the memory: 12
+Reading logical address: 51178
+	 Page number: 199
+	 Offset: 234
+	 TLB miss!
+	 No page fault!
+	 Frame number 167 read from page table.
+	 Value in the memory: 49
+Reading logical address: 8627
+	 Page number: 33
+	 Offset: 179
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 108
+Reading logical address: 27083
+	 Page number: 105
+	 Offset: 203
+	 TLB miss!
+	 No page fault!
+	 Frame number 105 read from page table.
+	 Value in the memory: 114
+Reading logical address: 47198
+	 Page number: 184
+	 Offset: 94
+	 TLB miss!
+	 No page fault!
+	 Frame number 116 read from page table.
+	 Value in the memory: 46
+Reading logical address: 44021
+	 Page number: 171
+	 Offset: 245
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 224
+	 Page loaded from disk to memory.
+	 Page table updated at index 171 with frame number 224.
+	 TLB updated with page number 171 and frame number 224.
+	 Value in the memory: 0
+Reading logical address: 32792
+	 Page number: 128
+	 Offset: 24
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 0
+Reading logical address: 43996
+	 Page number: 171
+	 Offset: 220
+	 TLB hit! Frame number: 224 
+	 Value in the memory: 0
+Reading logical address: 41126
+	 Page number: 160
+	 Offset: 166
+	 TLB miss!
+	 No page fault!
+	 Frame number 34 read from page table.
+	 Value in the memory: 40
+Reading logical address: 64244
+	 Page number: 250
+	 Offset: 244
+	 TLB miss!
+	 No page fault!
+	 Frame number 17 read from page table.
+	 Value in the memory: 0
+Reading logical address: 37047
+	 Page number: 144
+	 Offset: 183
+	 TLB miss!
+	 No page fault!
+	 Frame number 71 read from page table.
+	 Value in the memory: 45
+Reading logical address: 60281
+	 Page number: 235
+	 Offset: 121
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 225
+	 Page loaded from disk to memory.
+	 Page table updated at index 235 with frame number 225.
+	 TLB updated with page number 235 and frame number 225.
+	 Value in the memory: 0
+Reading logical address: 52904
+	 Page number: 206
+	 Offset: 168
+	 TLB miss!
+	 No page fault!
+	 Frame number 186 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7768
+	 Page number: 30
+	 Offset: 88
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 226
+	 Page loaded from disk to memory.
+	 Page table updated at index 30 with frame number 226.
+	 TLB updated with page number 30 and frame number 226.
+	 Value in the memory: 0
+Reading logical address: 55359
+	 Page number: 216
+	 Offset: 63
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 227
+	 Page loaded from disk to memory.
+	 Page table updated at index 216 with frame number 227.
+	 TLB updated with page number 216 and frame number 227.
+	 Value in the memory: 15
+Reading logical address: 3230
+	 Page number: 12
+	 Offset: 158
+	 TLB miss!
+	 No page fault!
+	 Frame number 157 read from page table.
+	 Value in the memory: 3
+Reading logical address: 44813
+	 Page number: 175
+	 Offset: 13
+	 TLB miss!
+	 No page fault!
+	 Frame number 51 read from page table.
+	 Value in the memory: 0
+Reading logical address: 4116
+	 Page number: 16
+	 Offset: 20
+	 TLB miss!
+	 No page fault!
+	 Frame number 198 read from page table.
+	 Value in the memory: 0
+Reading logical address: 65222
+	 Page number: 254
+	 Offset: 198
+	 TLB miss!
+	 No page fault!
+	 Frame number 189 read from page table.
+	 Value in the memory: 63
+Reading logical address: 28083
+	 Page number: 109
+	 Offset: 179
+	 TLB miss!
+	 No page fault!
+	 Frame number 13 read from page table.
+	 Value in the memory: 108
+Reading logical address: 60660
+	 Page number: 236
+	 Offset: 244
+	 TLB miss!
+	 No page fault!
+	 Frame number 28 read from page table.
+	 Value in the memory: 0
+Reading logical address: 39
+	 Page number: 0
+	 Offset: 39
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 228
+	 Page loaded from disk to memory.
+	 Page table updated at index 0 with frame number 228.
+	 TLB updated with page number 0 and frame number 228.
+	 Value in the memory: 9
+Reading logical address: 328
+	 Page number: 1
+	 Offset: 72
+	 TLB hit! Frame number: 223 
+	 Value in the memory: 0
+Reading logical address: 47868
+	 Page number: 186
+	 Offset: 252
+	 TLB hit! Frame number: 220 
+	 Value in the memory: 0
+Reading logical address: 13009
+	 Page number: 50
+	 Offset: 209
+	 TLB miss!
+	 No page fault!
+	 Frame number 118 read from page table.
+	 Value in the memory: 0
+Reading logical address: 22378
+	 Page number: 87
+	 Offset: 106
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: 21
+Reading logical address: 39304
+	 Page number: 153
+	 Offset: 136
+	 TLB hit! Frame number: 217 
+	 Value in the memory: 0
+Reading logical address: 11171
+	 Page number: 43
+	 Offset: 163
+	 TLB miss!
+	 No page fault!
+	 Frame number 156 read from page table.
+	 Value in the memory: -24
+Reading logical address: 8079
+	 Page number: 31
+	 Offset: 143
+	 TLB miss!
+	 No page fault!
+	 Frame number 132 read from page table.
+	 Value in the memory: -29
+Reading logical address: 52879
+	 Page number: 206
+	 Offset: 143
+	 TLB miss!
+	 No page fault!
+	 Frame number 186 read from page table.
+	 Value in the memory: -93
+Reading logical address: 5123
+	 Page number: 20
+	 Offset: 3
+	 TLB miss!
+	 No page fault!
+	 Frame number 59 read from page table.
+	 Value in the memory: 0
+Reading logical address: 4356
+	 Page number: 17
+	 Offset: 4
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 229
+	 Page loaded from disk to memory.
+	 Page table updated at index 17 with frame number 229.
+	 TLB updated with page number 17 and frame number 229.
+	 Value in the memory: 0
+Reading logical address: 45745
+	 Page number: 178
+	 Offset: 177
+	 TLB miss!
+	 No page fault!
+	 Frame number 30 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32952
+	 Page number: 128
+	 Offset: 184
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 0
+Reading logical address: 4657
+	 Page number: 18
+	 Offset: 49
+	 TLB miss!
+	 No page fault!
+	 Frame number 108 read from page table.
+	 Value in the memory: 0
+Reading logical address: 24142
+	 Page number: 94
+	 Offset: 78
+	 TLB miss!
+	 No page fault!
+	 Frame number 131 read from page table.
+	 Value in the memory: 23
+Reading logical address: 23319
+	 Page number: 91
+	 Offset: 23
+	 TLB miss!
+	 No page fault!
+	 Frame number 80 read from page table.
+	 Value in the memory: -59
+Reading logical address: 13607
+	 Page number: 53
+	 Offset: 39
+	 TLB miss!
+	 No page fault!
+	 Frame number 207 read from page table.
+	 Value in the memory: 73
+Reading logical address: 46304
+	 Page number: 180
+	 Offset: 224
+	 TLB miss!
+	 No page fault!
+	 Frame number 195 read from page table.
+	 Value in the memory: 0
+Reading logical address: 17677
+	 Page number: 69
+	 Offset: 13
+	 TLB miss!
+	 No page fault!
+	 Frame number 38 read from page table.
+	 Value in the memory: 0
+Reading logical address: 59691
+	 Page number: 233
+	 Offset: 43
+	 TLB miss!
+	 No page fault!
+	 Frame number 185 read from page table.
+	 Value in the memory: 74
+Reading logical address: 50967
+	 Page number: 199
+	 Offset: 23
+	 TLB miss!
+	 No page fault!
+	 Frame number 167 read from page table.
+	 Value in the memory: -59
+Reading logical address: 7817
+	 Page number: 30
+	 Offset: 137
+	 TLB hit! Frame number: 226 
+	 Value in the memory: 0
+Reading logical address: 8545
+	 Page number: 33
+	 Offset: 97
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 0
+Reading logical address: 55297
+	 Page number: 216
+	 Offset: 1
+	 TLB hit! Frame number: 227 
+	 Value in the memory: 0
+Reading logical address: 52954
+	 Page number: 206
+	 Offset: 218
+	 TLB miss!
+	 No page fault!
+	 Frame number 186 read from page table.
+	 Value in the memory: 51
+Reading logical address: 39720
+	 Page number: 155
+	 Offset: 40
+	 TLB miss!
+	 No page fault!
+	 Frame number 149 read from page table.
+	 Value in the memory: 0
+Reading logical address: 18455
+	 Page number: 72
+	 Offset: 23
+	 TLB miss!
+	 No page fault!
+	 Frame number 21 read from page table.
+	 Value in the memory: 5
+Reading logical address: 30349
+	 Page number: 118
+	 Offset: 141
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 230
+	 Page loaded from disk to memory.
+	 Page table updated at index 118 with frame number 230.
+	 TLB updated with page number 118 and frame number 230.
+	 Value in the memory: 0
+Reading logical address: 63270
+	 Page number: 247
+	 Offset: 38
+	 TLB miss!
+	 No page fault!
+	 Frame number 66 read from page table.
+	 Value in the memory: 61
+Reading logical address: 27156
+	 Page number: 106
+	 Offset: 20
+	 TLB miss!
+	 No page fault!
+	 Frame number 112 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20614
+	 Page number: 80
+	 Offset: 134
+	 TLB hit! Frame number: 222 
+	 Value in the memory: 20
+Reading logical address: 19372
+	 Page number: 75
+	 Offset: 172
+	 TLB miss!
+	 No page fault!
+	 Frame number 55 read from page table.
+	 Value in the memory: 0
+Reading logical address: 48689
+	 Page number: 190
+	 Offset: 49
+	 TLB miss!
+	 No page fault!
+	 Frame number 128 read from page table.
+	 Value in the memory: 0
+Reading logical address: 49386
+	 Page number: 192
+	 Offset: 234
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 48
+Reading logical address: 50584
+	 Page number: 197
+	 Offset: 152
+	 TLB miss!
+	 No page fault!
+	 Frame number 72 read from page table.
+	 Value in the memory: 0
+Reading logical address: 51936
+	 Page number: 202
+	 Offset: 224
+	 TLB miss!
+	 No page fault!
+	 Frame number 106 read from page table.
+	 Value in the memory: 0
+Reading logical address: 34705
+	 Page number: 135
+	 Offset: 145
+	 TLB miss!
+	 No page fault!
+	 Frame number 70 read from page table.
+	 Value in the memory: 0
+Reading logical address: 13653
+	 Page number: 53
+	 Offset: 85
+	 TLB miss!
+	 No page fault!
+	 Frame number 207 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50077
+	 Page number: 195
+	 Offset: 157
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 231
+	 Page loaded from disk to memory.
+	 Page table updated at index 195 with frame number 231.
+	 TLB updated with page number 195 and frame number 231.
+	 Value in the memory: 0
+Reading logical address: 54518
+	 Page number: 212
+	 Offset: 246
+	 TLB miss!
+	 No page fault!
+	 Frame number 75 read from page table.
+	 Value in the memory: 53
+Reading logical address: 41482
+	 Page number: 162
+	 Offset: 10
+	 TLB miss!
+	 No page fault!
+	 Frame number 163 read from page table.
+	 Value in the memory: 40
+Reading logical address: 4169
+	 Page number: 16
+	 Offset: 73
+	 TLB miss!
+	 No page fault!
+	 Frame number 198 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36118
+	 Page number: 141
+	 Offset: 22
+	 TLB miss!
+	 No page fault!
+	 Frame number 213 read from page table.
+	 Value in the memory: 35
+Reading logical address: 9584
+	 Page number: 37
+	 Offset: 112
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 232
+	 Page loaded from disk to memory.
+	 Page table updated at index 37 with frame number 232.
+	 TLB updated with page number 37 and frame number 232.
+	 Value in the memory: 0
+Reading logical address: 18490
+	 Page number: 72
+	 Offset: 58
+	 TLB miss!
+	 No page fault!
+	 Frame number 21 read from page table.
+	 Value in the memory: 18
+Reading logical address: 55420
+	 Page number: 216
+	 Offset: 124
+	 TLB hit! Frame number: 227 
+	 Value in the memory: 0
+Reading logical address: 5708
+	 Page number: 22
+	 Offset: 76
+	 TLB miss!
+	 No page fault!
+	 Frame number 203 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23506
+	 Page number: 91
+	 Offset: 210
+	 TLB miss!
+	 No page fault!
+	 Frame number 80 read from page table.
+	 Value in the memory: 22
+Reading logical address: 15391
+	 Page number: 60
+	 Offset: 31
+	 TLB miss!
+	 No page fault!
+	 Frame number 124 read from page table.
+	 Value in the memory: 7
+Reading logical address: 36368
+	 Page number: 142
+	 Offset: 16
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 0
+Reading logical address: 38976
+	 Page number: 152
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 15 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50406
+	 Page number: 196
+	 Offset: 230
+	 TLB miss!
+	 No page fault!
+	 Frame number 54 read from page table.
+	 Value in the memory: 49
+Reading logical address: 49236
+	 Page number: 192
+	 Offset: 84
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 0
+Reading logical address: 65035
+	 Page number: 254
+	 Offset: 11
+	 TLB miss!
+	 No page fault!
+	 Frame number 189 read from page table.
+	 Value in the memory: -126
+Reading logical address: 30120
+	 Page number: 117
+	 Offset: 168
+	 TLB miss!
+	 No page fault!
+	 Frame number 2 read from page table.
+	 Value in the memory: 0
+Reading logical address: 62551
+	 Page number: 244
+	 Offset: 87
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 21
+Reading logical address: 46809
+	 Page number: 182
+	 Offset: 217
+	 TLB miss!
+	 No page fault!
+	 Frame number 216 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21687
+	 Page number: 84
+	 Offset: 183
+	 TLB miss!
+	 No page fault!
+	 Frame number 204 read from page table.
+	 Value in the memory: 45
+Reading logical address: 53839
+	 Page number: 210
+	 Offset: 79
+	 TLB miss!
+	 No page fault!
+	 Frame number 211 read from page table.
+	 Value in the memory: -109
+Reading logical address: 2098
+	 Page number: 8
+	 Offset: 50
+	 TLB miss!
+	 No page fault!
+	 Frame number 137 read from page table.
+	 Value in the memory: 2
+Reading logical address: 12364
+	 Page number: 48
+	 Offset: 76
+	 TLB miss!
+	 No page fault!
+	 Frame number 176 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45366
+	 Page number: 177
+	 Offset: 54
+	 TLB miss!
+	 No page fault!
+	 Frame number 179 read from page table.
+	 Value in the memory: 44
+Reading logical address: 50437
+	 Page number: 197
+	 Offset: 5
+	 TLB miss!
+	 No page fault!
+	 Frame number 72 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36675
+	 Page number: 143
+	 Offset: 67
+	 TLB miss!
+	 No page fault!
+	 Frame number 139 read from page table.
+	 Value in the memory: -48
+Reading logical address: 55382
+	 Page number: 216
+	 Offset: 86
+	 TLB hit! Frame number: 227 
+	 Value in the memory: 54
+Reading logical address: 11846
+	 Page number: 46
+	 Offset: 70
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 233
+	 Page loaded from disk to memory.
+	 Page table updated at index 46 with frame number 233.
+	 TLB updated with page number 46 and frame number 233.
+	 Value in the memory: 11
+Reading logical address: 49127
+	 Page number: 191
+	 Offset: 231
+	 TLB miss!
+	 No page fault!
+	 Frame number 197 read from page table.
+	 Value in the memory: -7
+Reading logical address: 19900
+	 Page number: 77
+	 Offset: 188
+	 TLB miss!
+	 No page fault!
+	 Frame number 142 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20554
+	 Page number: 80
+	 Offset: 74
+	 TLB hit! Frame number: 222 
+	 Value in the memory: 20
+Reading logical address: 19219
+	 Page number: 75
+	 Offset: 19
+	 TLB miss!
+	 No page fault!
+	 Frame number 55 read from page table.
+	 Value in the memory: -60
+Reading logical address: 51483
+	 Page number: 201
+	 Offset: 27
+	 TLB miss!
+	 No page fault!
+	 Frame number 62 read from page table.
+	 Value in the memory: 70
+Reading logical address: 58090
+	 Page number: 226
+	 Offset: 234
+	 TLB miss!
+	 No page fault!
+	 Frame number 12 read from page table.
+	 Value in the memory: 56
+Reading logical address: 39074
+	 Page number: 152
+	 Offset: 162
+	 TLB miss!
+	 No page fault!
+	 Frame number 15 read from page table.
+	 Value in the memory: 38
+Reading logical address: 16060
+	 Page number: 62
+	 Offset: 188
+	 TLB miss!
+	 No page fault!
+	 Frame number 82 read from page table.
+	 Value in the memory: 0
+Reading logical address: 10447
+	 Page number: 40
+	 Offset: 207
+	 TLB miss!
+	 No page fault!
+	 Frame number 57 read from page table.
+	 Value in the memory: 51
+Reading logical address: 54169
+	 Page number: 211
+	 Offset: 153
+	 TLB miss!
+	 No page fault!
+	 Frame number 202 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20634
+	 Page number: 80
+	 Offset: 154
+	 TLB hit! Frame number: 222 
+	 Value in the memory: 20
+Reading logical address: 57555
+	 Page number: 224
+	 Offset: 211
+	 TLB miss!
+	 No page fault!
+	 Frame number 148 read from page table.
+	 Value in the memory: 52
+Reading logical address: 61210
+	 Page number: 239
+	 Offset: 26
+	 TLB miss!
+	 No page fault!
+	 Frame number 165 read from page table.
+	 Value in the memory: 59
+Reading logical address: 269
+	 Page number: 1
+	 Offset: 13
+	 TLB hit! Frame number: 223 
+	 Value in the memory: 0
+Reading logical address: 33154
+	 Page number: 129
+	 Offset: 130
+	 TLB miss!
+	 No page fault!
+	 Frame number 209 read from page table.
+	 Value in the memory: 32
+Reading logical address: 64487
+	 Page number: 251
+	 Offset: 231
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: -7
+Reading logical address: 61223
+	 Page number: 239
+	 Offset: 39
+	 TLB miss!
+	 No page fault!
+	 Frame number 165 read from page table.
+	 Value in the memory: -55
+Reading logical address: 47292
+	 Page number: 184
+	 Offset: 188
+	 TLB miss!
+	 No page fault!
+	 Frame number 116 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21852
+	 Page number: 85
+	 Offset: 92
+	 TLB miss!
+	 No page fault!
+	 Frame number 94 read from page table.
+	 Value in the memory: 0
+Reading logical address: 5281
+	 Page number: 20
+	 Offset: 161
+	 TLB miss!
+	 No page fault!
+	 Frame number 59 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45912
+	 Page number: 179
+	 Offset: 88
+	 TLB miss!
+	 No page fault!
+	 Frame number 199 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32532
+	 Page number: 127
+	 Offset: 20
+	 TLB miss!
+	 No page fault!
+	 Frame number 37 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63067
+	 Page number: 246
+	 Offset: 91
+	 TLB miss!
+	 No page fault!
+	 Frame number 86 read from page table.
+	 Value in the memory: -106
+Reading logical address: 41683
+	 Page number: 162
+	 Offset: 211
+	 TLB miss!
+	 No page fault!
+	 Frame number 163 read from page table.
+	 Value in the memory: -76
+Reading logical address: 20981
+	 Page number: 81
+	 Offset: 245
+	 TLB miss!
+	 No page fault!
+	 Frame number 152 read from page table.
+	 Value in the memory: 0
+Reading logical address: 33881
+	 Page number: 132
+	 Offset: 89
+	 TLB miss!
+	 No page fault!
+	 Frame number 164 read from page table.
+	 Value in the memory: 0
+Reading logical address: 41785
+	 Page number: 163
+	 Offset: 57
+	 TLB miss!
+	 No page fault!
+	 Frame number 151 read from page table.
+	 Value in the memory: 0
+Reading logical address: 4580
+	 Page number: 17
+	 Offset: 228
+	 TLB hit! Frame number: 229 
+	 Value in the memory: 0
+Reading logical address: 41389
+	 Page number: 161
+	 Offset: 173
+	 TLB miss!
+	 No page fault!
+	 Frame number 97 read from page table.
+	 Value in the memory: 0
+Reading logical address: 28572
+	 Page number: 111
+	 Offset: 156
+	 TLB miss!
+	 No page fault!
+	 Frame number 109 read from page table.
+	 Value in the memory: 0
+Reading logical address: 782
+	 Page number: 3
+	 Offset: 14
+	 TLB miss!
+	 No page fault!
+	 Frame number 31 read from page table.
+	 Value in the memory: 0
+Reading logical address: 30273
+	 Page number: 118
+	 Offset: 65
+	 TLB hit! Frame number: 230 
+	 Value in the memory: 0
+Reading logical address: 62267
+	 Page number: 243
+	 Offset: 59
+	 TLB miss!
+	 No page fault!
+	 Frame number 93 read from page table.
+	 Value in the memory: -50
+Reading logical address: 17922
+	 Page number: 70
+	 Offset: 2
+	 TLB miss!
+	 No page fault!
+	 Frame number 73 read from page table.
+	 Value in the memory: 17
+Reading logical address: 63238
+	 Page number: 247
+	 Offset: 6
+	 TLB miss!
+	 No page fault!
+	 Frame number 66 read from page table.
+	 Value in the memory: 61
+Reading logical address: 3308
+	 Page number: 12
+	 Offset: 236
+	 TLB miss!
+	 No page fault!
+	 Frame number 157 read from page table.
+	 Value in the memory: 0
+Reading logical address: 26545
+	 Page number: 103
+	 Offset: 177
+	 TLB miss!
+	 No page fault!
+	 Frame number 95 read from page table.
+	 Value in the memory: 0
+Reading logical address: 44395
+	 Page number: 173
+	 Offset: 107
+	 TLB miss!
+	 No page fault!
+	 Frame number 175 read from page table.
+	 Value in the memory: 90
+Reading logical address: 39120
+	 Page number: 152
+	 Offset: 208
+	 TLB miss!
+	 No page fault!
+	 Frame number 15 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21706
+	 Page number: 84
+	 Offset: 202
+	 TLB miss!
+	 No page fault!
+	 Frame number 204 read from page table.
+	 Value in the memory: 21
+Reading logical address: 7144
+	 Page number: 27
+	 Offset: 232
+	 TLB miss!
+	 No page fault!
+	 Frame number 103 read from page table.
+	 Value in the memory: 0
+Reading logical address: 30244
+	 Page number: 118
+	 Offset: 36
+	 TLB hit! Frame number: 230 
+	 Value in the memory: 0
+Reading logical address: 3725
+	 Page number: 14
+	 Offset: 141
+	 TLB miss!
+	 No page fault!
+	 Frame number 39 read from page table.
+	 Value in the memory: 0
+Reading logical address: 54632
+	 Page number: 213
+	 Offset: 104
+	 TLB miss!
+	 No page fault!
+	 Frame number 190 read from page table.
+	 Value in the memory: 0
+Reading logical address: 30574
+	 Page number: 119
+	 Offset: 110
+	 TLB miss!
+	 No page fault!
+	 Frame number 63 read from page table.
+	 Value in the memory: 29
+Reading logical address: 8473
+	 Page number: 33
+	 Offset: 25
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 0
+Reading logical address: 12386
+	 Page number: 48
+	 Offset: 98
+	 TLB miss!
+	 No page fault!
+	 Frame number 176 read from page table.
+	 Value in the memory: 12
+Reading logical address: 41114
+	 Page number: 160
+	 Offset: 154
+	 TLB miss!
+	 No page fault!
+	 Frame number 34 read from page table.
+	 Value in the memory: 40
+Reading logical address: 57930
+	 Page number: 226
+	 Offset: 74
+	 TLB miss!
+	 No page fault!
+	 Frame number 12 read from page table.
+	 Value in the memory: 56
+Reading logical address: 15341
+	 Page number: 59
+	 Offset: 237
+	 TLB miss!
+	 No page fault!
+	 Frame number 126 read from page table.
+	 Value in the memory: 0
+Reading logical address: 15598
+	 Page number: 60
+	 Offset: 238
+	 TLB miss!
+	 No page fault!
+	 Frame number 124 read from page table.
+	 Value in the memory: 15
+Reading logical address: 59922
+	 Page number: 234
+	 Offset: 18
+	 TLB miss!
+	 No page fault!
+	 Frame number 41 read from page table.
+	 Value in the memory: 58
+Reading logical address: 18226
+	 Page number: 71
+	 Offset: 50
+	 TLB miss!
+	 No page fault!
+	 Frame number 9 read from page table.
+	 Value in the memory: 17
+Reading logical address: 48162
+	 Page number: 188
+	 Offset: 34
+	 TLB miss!
+	 No page fault!
+	 Frame number 69 read from page table.
+	 Value in the memory: 47
+Reading logical address: 41250
+	 Page number: 161
+	 Offset: 34
+	 TLB miss!
+	 No page fault!
+	 Frame number 97 read from page table.
+	 Value in the memory: 40
+Reading logical address: 1512
+	 Page number: 5
+	 Offset: 232
+	 TLB miss!
+	 No page fault!
+	 Frame number 201 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2546
+	 Page number: 9
+	 Offset: 242
+	 TLB miss!
+	 No page fault!
+	 Frame number 18 read from page table.
+	 Value in the memory: 2
+Reading logical address: 41682
+	 Page number: 162
+	 Offset: 210
+	 TLB miss!
+	 No page fault!
+	 Frame number 163 read from page table.
+	 Value in the memory: 40
+Reading logical address: 322
+	 Page number: 1
+	 Offset: 66
+	 TLB hit! Frame number: 223 
+	 Value in the memory: 0
+Reading logical address: 880
+	 Page number: 3
+	 Offset: 112
+	 TLB miss!
+	 No page fault!
+	 Frame number 31 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20891
+	 Page number: 81
+	 Offset: 155
+	 TLB miss!
+	 No page fault!
+	 Frame number 152 read from page table.
+	 Value in the memory: 102
+Reading logical address: 56604
+	 Page number: 221
+	 Offset: 28
+	 TLB miss!
+	 No page fault!
+	 Frame number 52 read from page table.
+	 Value in the memory: 0
+Reading logical address: 40166
+	 Page number: 156
+	 Offset: 230
+	 TLB miss!
+	 No page fault!
+	 Frame number 4 read from page table.
+	 Value in the memory: 39
+Reading logical address: 26791
+	 Page number: 104
+	 Offset: 167
+	 TLB miss!
+	 No page fault!
+	 Frame number 166 read from page table.
+	 Value in the memory: 41
+Reading logical address: 44560
+	 Page number: 174
+	 Offset: 16
+	 TLB miss!
+	 No page fault!
+	 Frame number 43 read from page table.
+	 Value in the memory: 0
+Reading logical address: 38698
+	 Page number: 151
+	 Offset: 42
+	 TLB miss!
+	 No page fault!
+	 Frame number 183 read from page table.
+	 Value in the memory: 37
+Reading logical address: 64127
+	 Page number: 250
+	 Offset: 127
+	 TLB miss!
+	 No page fault!
+	 Frame number 17 read from page table.
+	 Value in the memory: -97
+Reading logical address: 15028
+	 Page number: 58
+	 Offset: 180
+	 TLB miss!
+	 No page fault!
+	 Frame number 96 read from page table.
+	 Value in the memory: 0
+Reading logical address: 38669
+	 Page number: 151
+	 Offset: 13
+	 TLB miss!
+	 No page fault!
+	 Frame number 183 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45637
+	 Page number: 178
+	 Offset: 69
+	 TLB miss!
+	 No page fault!
+	 Frame number 30 read from page table.
+	 Value in the memory: 0
+Reading logical address: 43151
+	 Page number: 168
+	 Offset: 143
+	 TLB miss!
+	 No page fault!
+	 Frame number 68 read from page table.
+	 Value in the memory: 35
+Reading logical address: 9465
+	 Page number: 36
+	 Offset: 249
+	 TLB miss!
+	 No page fault!
+	 Frame number 89 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2498
+	 Page number: 9
+	 Offset: 194
+	 TLB miss!
+	 No page fault!
+	 Frame number 18 read from page table.
+	 Value in the memory: 2
+Reading logical address: 13978
+	 Page number: 54
+	 Offset: 154
+	 TLB miss!
+	 No page fault!
+	 Frame number 122 read from page table.
+	 Value in the memory: 13
+Reading logical address: 16326
+	 Page number: 63
+	 Offset: 198
+	 TLB hit! Frame number: 218 
+	 Value in the memory: 15
+Reading logical address: 51442
+	 Page number: 200
+	 Offset: 242
+	 TLB miss!
+	 No page fault!
+	 Frame number 127 read from page table.
+	 Value in the memory: 50
+Reading logical address: 34845
+	 Page number: 136
+	 Offset: 29
+	 TLB miss!
+	 No page fault!
+	 Frame number 104 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63667
+	 Page number: 248
+	 Offset: 179
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 44
+Reading logical address: 39370
+	 Page number: 153
+	 Offset: 202
+	 TLB miss!
+	 No page fault!
+	 Frame number 217 read from page table.
+	 Value in the memory: 38
+Reading logical address: 55671
+	 Page number: 217
+	 Offset: 119
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 234
+	 Page loaded from disk to memory.
+	 Page table updated at index 217 with frame number 234.
+	 TLB updated with page number 217 and frame number 234.
+	 Value in the memory: 93
+Reading logical address: 64496
+	 Page number: 251
+	 Offset: 240
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7767
+	 Page number: 30
+	 Offset: 87
+	 TLB hit! Frame number: 226 
+	 Value in the memory: -107
+Reading logical address: 6283
+	 Page number: 24
+	 Offset: 139
+	 TLB miss!
+	 No page fault!
+	 Frame number 29 read from page table.
+	 Value in the memory: 34
+Reading logical address: 55884
+	 Page number: 218
+	 Offset: 76
+	 TLB miss!
+	 No page fault!
+	 Frame number 135 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61103
+	 Page number: 238
+	 Offset: 175
+	 TLB miss!
+	 No page fault!
+	 Frame number 23 read from page table.
+	 Value in the memory: -85
+Reading logical address: 10184
+	 Page number: 39
+	 Offset: 200
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 235
+	 Page loaded from disk to memory.
+	 Page table updated at index 39 with frame number 235.
+	 TLB updated with page number 39 and frame number 235.
+	 Value in the memory: 0
+Reading logical address: 39543
+	 Page number: 154
+	 Offset: 119
+	 TLB miss!
+	 No page fault!
+	 Frame number 169 read from page table.
+	 Value in the memory: -99
+Reading logical address: 9555
+	 Page number: 37
+	 Offset: 83
+	 TLB hit! Frame number: 232 
+	 Value in the memory: 84
+Reading logical address: 13963
+	 Page number: 54
+	 Offset: 139
+	 TLB miss!
+	 No page fault!
+	 Frame number 122 read from page table.
+	 Value in the memory: -94
+Reading logical address: 58975
+	 Page number: 230
+	 Offset: 95
+	 TLB miss!
+	 No page fault!
+	 Frame number 58 read from page table.
+	 Value in the memory: -105
+Reading logical address: 19537
+	 Page number: 76
+	 Offset: 81
+	 TLB miss!
+	 No page fault!
+	 Frame number 88 read from page table.
+	 Value in the memory: 0
+Reading logical address: 6101
+	 Page number: 23
+	 Offset: 213
+	 TLB miss!
+	 No page fault!
+	 Frame number 36 read from page table.
+	 Value in the memory: 0
+Reading logical address: 41421
+	 Page number: 161
+	 Offset: 205
+	 TLB miss!
+	 No page fault!
+	 Frame number 97 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45502
+	 Page number: 177
+	 Offset: 190
+	 TLB miss!
+	 No page fault!
+	 Frame number 179 read from page table.
+	 Value in the memory: 44
+Reading logical address: 29328
+	 Page number: 114
+	 Offset: 144
+	 TLB miss!
+	 No page fault!
+	 Frame number 144 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8149
+	 Page number: 31
+	 Offset: 213
+	 TLB miss!
+	 No page fault!
+	 Frame number 132 read from page table.
+	 Value in the memory: 0
+Reading logical address: 25450
+	 Page number: 99
+	 Offset: 106
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 236
+	 Page loaded from disk to memory.
+	 Page table updated at index 99 with frame number 236.
+	 TLB updated with page number 99 and frame number 236.
+	 Value in the memory: 24
+Reading logical address: 58944
+	 Page number: 230
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 58 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50666
+	 Page number: 197
+	 Offset: 234
+	 TLB miss!
+	 No page fault!
+	 Frame number 72 read from page table.
+	 Value in the memory: 49
+Reading logical address: 23084
+	 Page number: 90
+	 Offset: 44
+	 TLB miss!
+	 No page fault!
+	 Frame number 140 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36468
+	 Page number: 142
+	 Offset: 116
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 0
+Reading logical address: 33645
+	 Page number: 131
+	 Offset: 109
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 237
+	 Page loaded from disk to memory.
+	 Page table updated at index 131 with frame number 237.
+	 TLB updated with page number 131 and frame number 237.
+	 Value in the memory: 0
+Reading logical address: 25002
+	 Page number: 97
+	 Offset: 170
+	 TLB miss!
+	 No page fault!
+	 Frame number 205 read from page table.
+	 Value in the memory: 24
+Reading logical address: 53715
+	 Page number: 209
+	 Offset: 211
+	 TLB miss!
+	 No page fault!
+	 Frame number 3 read from page table.
+	 Value in the memory: 116
+Reading logical address: 60173
+	 Page number: 235
+	 Offset: 13
+	 TLB hit! Frame number: 225 
+	 Value in the memory: 0
+Reading logical address: 46354
+	 Page number: 181
+	 Offset: 18
+	 TLB miss!
+	 No page fault!
+	 Frame number 196 read from page table.
+	 Value in the memory: 45
+Reading logical address: 4708
+	 Page number: 18
+	 Offset: 100
+	 TLB miss!
+	 No page fault!
+	 Frame number 108 read from page table.
+	 Value in the memory: 0
+Reading logical address: 28208
+	 Page number: 110
+	 Offset: 48
+	 TLB miss!
+	 No page fault!
+	 Frame number 136 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58844
+	 Page number: 229
+	 Offset: 220
+	 TLB miss!
+	 No page fault!
+	 Frame number 215 read from page table.
+	 Value in the memory: 0
+Reading logical address: 22173
+	 Page number: 86
+	 Offset: 157
+	 TLB miss!
+	 No page fault!
+	 Frame number 221 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8535
+	 Page number: 33
+	 Offset: 87
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 85
+Reading logical address: 42261
+	 Page number: 165
+	 Offset: 21
+	 TLB miss!
+	 No page fault!
+	 Frame number 42 read from page table.
+	 Value in the memory: 0
+Reading logical address: 29687
+	 Page number: 115
+	 Offset: 247
+	 TLB miss!
+	 No page fault!
+	 Frame number 193 read from page table.
+	 Value in the memory: -3
+Reading logical address: 37799
+	 Page number: 147
+	 Offset: 167
+	 TLB miss!
+	 No page fault!
+	 Frame number 114 read from page table.
+	 Value in the memory: -23
+Reading logical address: 22566
+	 Page number: 88
+	 Offset: 38
+	 TLB miss!
+	 No page fault!
+	 Frame number 11 read from page table.
+	 Value in the memory: 22
+Reading logical address: 62520
+	 Page number: 244
+	 Offset: 56
+	 TLB miss!
+	 No page fault!
+	 Frame number 1 read from page table.
+	 Value in the memory: 0
+Reading logical address: 4098
+	 Page number: 16
+	 Offset: 2
+	 TLB miss!
+	 No page fault!
+	 Frame number 198 read from page table.
+	 Value in the memory: 4
+Reading logical address: 47999
+	 Page number: 187
+	 Offset: 127
+	 TLB miss!
+	 No page fault!
+	 Frame number 100 read from page table.
+	 Value in the memory: -33
+Reading logical address: 49660
+	 Page number: 193
+	 Offset: 252
+	 TLB miss!
+	 No page fault!
+	 Frame number 177 read from page table.
+	 Value in the memory: 0
+Reading logical address: 37063
+	 Page number: 144
+	 Offset: 199
+	 TLB miss!
+	 No page fault!
+	 Frame number 71 read from page table.
+	 Value in the memory: 49
+Reading logical address: 41856
+	 Page number: 163
+	 Offset: 128
+	 TLB miss!
+	 No page fault!
+	 Frame number 151 read from page table.
+	 Value in the memory: 0
+Reading logical address: 5417
+	 Page number: 21
+	 Offset: 41
+	 TLB miss!
+	 No page fault!
+	 Frame number 84 read from page table.
+	 Value in the memory: 0
+Reading logical address: 48856
+	 Page number: 190
+	 Offset: 216
+	 TLB miss!
+	 No page fault!
+	 Frame number 128 read from page table.
+	 Value in the memory: 0
+Reading logical address: 10682
+	 Page number: 41
+	 Offset: 186
+	 TLB miss!
+	 No page fault!
+	 Frame number 107 read from page table.
+	 Value in the memory: 10
+Reading logical address: 22370
+	 Page number: 87
+	 Offset: 98
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: 21
+Reading logical address: 63281
+	 Page number: 247
+	 Offset: 49
+	 TLB miss!
+	 No page fault!
+	 Frame number 66 read from page table.
+	 Value in the memory: 0
+Reading logical address: 62452
+	 Page number: 243
+	 Offset: 244
+	 TLB miss!
+	 No page fault!
+	 Frame number 93 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50532
+	 Page number: 197
+	 Offset: 100
+	 TLB miss!
+	 No page fault!
+	 Frame number 72 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9022
+	 Page number: 35
+	 Offset: 62
+	 TLB miss!
+	 No page fault!
+	 Frame number 188 read from page table.
+	 Value in the memory: 8
+Reading logical address: 59300
+	 Page number: 231
+	 Offset: 164
+	 TLB miss!
+	 No page fault!
+	 Frame number 40 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58660
+	 Page number: 229
+	 Offset: 36
+	 TLB miss!
+	 No page fault!
+	 Frame number 215 read from page table.
+	 Value in the memory: 0
+Reading logical address: 56401
+	 Page number: 220
+	 Offset: 81
+	 TLB miss!
+	 No page fault!
+	 Frame number 200 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8518
+	 Page number: 33
+	 Offset: 70
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 8
+Reading logical address: 63066
+	 Page number: 246
+	 Offset: 90
+	 TLB miss!
+	 No page fault!
+	 Frame number 86 read from page table.
+	 Value in the memory: 61
+Reading logical address: 63250
+	 Page number: 247
+	 Offset: 18
+	 TLB miss!
+	 No page fault!
+	 Frame number 66 read from page table.
+	 Value in the memory: 61
+Reading logical address: 48592
+	 Page number: 189
+	 Offset: 208
+	 TLB miss!
+	 No page fault!
+	 Frame number 7 read from page table.
+	 Value in the memory: 0
+Reading logical address: 28771
+	 Page number: 112
+	 Offset: 99
+	 TLB miss!
+	 No page fault!
+	 Frame number 5 read from page table.
+	 Value in the memory: 24
+Reading logical address: 37673
+	 Page number: 147
+	 Offset: 41
+	 TLB miss!
+	 No page fault!
+	 Frame number 114 read from page table.
+	 Value in the memory: 0
+Reading logical address: 60776
+	 Page number: 237
+	 Offset: 104
+	 TLB miss!
+	 No page fault!
+	 Frame number 92 read from page table.
+	 Value in the memory: 0
+Reading logical address: 56438
+	 Page number: 220
+	 Offset: 118
+	 TLB miss!
+	 No page fault!
+	 Frame number 200 read from page table.
+	 Value in the memory: 55
+Reading logical address: 60424
+	 Page number: 236
+	 Offset: 8
+	 TLB miss!
+	 No page fault!
+	 Frame number 28 read from page table.
+	 Value in the memory: 0
+Reading logical address: 39993
+	 Page number: 156
+	 Offset: 57
+	 TLB miss!
+	 No page fault!
+	 Frame number 4 read from page table.
+	 Value in the memory: 0
+Reading logical address: 56004
+	 Page number: 218
+	 Offset: 196
+	 TLB miss!
+	 No page fault!
+	 Frame number 135 read from page table.
+	 Value in the memory: 0
+Reading logical address: 59002
+	 Page number: 230
+	 Offset: 122
+	 TLB miss!
+	 No page fault!
+	 Frame number 58 read from page table.
+	 Value in the memory: 57
+Reading logical address: 33982
+	 Page number: 132
+	 Offset: 190
+	 TLB miss!
+	 No page fault!
+	 Frame number 164 read from page table.
+	 Value in the memory: 33
+Reading logical address: 25498
+	 Page number: 99
+	 Offset: 154
+	 TLB hit! Frame number: 236 
+	 Value in the memory: 24
+Reading logical address: 57047
+	 Page number: 222
+	 Offset: 215
+	 TLB miss!
+	 No page fault!
+	 Frame number 146 read from page table.
+	 Value in the memory: -75
+Reading logical address: 1401
+	 Page number: 5
+	 Offset: 121
+	 TLB miss!
+	 No page fault!
+	 Frame number 201 read from page table.
+	 Value in the memory: 0
+Reading logical address: 15130
+	 Page number: 59
+	 Offset: 26
+	 TLB miss!
+	 No page fault!
+	 Frame number 126 read from page table.
+	 Value in the memory: 14
+Reading logical address: 42960
+	 Page number: 167
+	 Offset: 208
+	 TLB miss!
+	 No page fault!
+	 Frame number 76 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61827
+	 Page number: 241
+	 Offset: 131
+	 TLB miss!
+	 No page fault!
+	 Frame number 87 read from page table.
+	 Value in the memory: 96
+Reading logical address: 32442
+	 Page number: 126
+	 Offset: 186
+	 TLB miss!
+	 No page fault!
+	 Frame number 27 read from page table.
+	 Value in the memory: 31
+Reading logical address: 64304
+	 Page number: 251
+	 Offset: 48
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: 0
+Reading logical address: 30273
+	 Page number: 118
+	 Offset: 65
+	 TLB hit! Frame number: 230 
+	 Value in the memory: 0
+Reading logical address: 38082
+	 Page number: 148
+	 Offset: 194
+	 TLB miss!
+	 No page fault!
+	 Frame number 145 read from page table.
+	 Value in the memory: 37
+Reading logical address: 22404
+	 Page number: 87
+	 Offset: 132
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: 0
+Reading logical address: 3808
+	 Page number: 14
+	 Offset: 224
+	 TLB miss!
+	 No page fault!
+	 Frame number 39 read from page table.
+	 Value in the memory: 0
+Reading logical address: 16883
+	 Page number: 65
+	 Offset: 243
+	 TLB miss!
+	 No page fault!
+	 Frame number 187 read from page table.
+	 Value in the memory: 124
+Reading logical address: 23111
+	 Page number: 90
+	 Offset: 71
+	 TLB miss!
+	 No page fault!
+	 Frame number 140 read from page table.
+	 Value in the memory: -111
+Reading logical address: 62417
+	 Page number: 243
+	 Offset: 209
+	 TLB miss!
+	 No page fault!
+	 Frame number 93 read from page table.
+	 Value in the memory: 0
+Reading logical address: 60364
+	 Page number: 235
+	 Offset: 204
+	 TLB hit! Frame number: 225 
+	 Value in the memory: 0
+Reading logical address: 4542
+	 Page number: 17
+	 Offset: 190
+	 TLB hit! Frame number: 229 
+	 Value in the memory: 4
+Reading logical address: 14829
+	 Page number: 57
+	 Offset: 237
+	 TLB miss!
+	 No page fault!
+	 Frame number 130 read from page table.
+	 Value in the memory: 0
+Reading logical address: 44964
+	 Page number: 175
+	 Offset: 164
+	 TLB miss!
+	 No page fault!
+	 Frame number 51 read from page table.
+	 Value in the memory: 0
+Reading logical address: 33924
+	 Page number: 132
+	 Offset: 132
+	 TLB miss!
+	 No page fault!
+	 Frame number 164 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2141
+	 Page number: 8
+	 Offset: 93
+	 TLB miss!
+	 No page fault!
+	 Frame number 137 read from page table.
+	 Value in the memory: 0
+Reading logical address: 19245
+	 Page number: 75
+	 Offset: 45
+	 TLB miss!
+	 No page fault!
+	 Frame number 55 read from page table.
+	 Value in the memory: 0
+Reading logical address: 47168
+	 Page number: 184
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 116 read from page table.
+	 Value in the memory: 0
+Reading logical address: 24048
+	 Page number: 93
+	 Offset: 240
+	 TLB miss!
+	 No page fault!
+	 Frame number 154 read from page table.
+	 Value in the memory: 0
+Reading logical address: 1022
+	 Page number: 3
+	 Offset: 254
+	 TLB miss!
+	 No page fault!
+	 Frame number 31 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23075
+	 Page number: 90
+	 Offset: 35
+	 TLB miss!
+	 No page fault!
+	 Frame number 140 read from page table.
+	 Value in the memory: -120
+Reading logical address: 24888
+	 Page number: 97
+	 Offset: 56
+	 TLB miss!
+	 No page fault!
+	 Frame number 205 read from page table.
+	 Value in the memory: 0
+Reading logical address: 49247
+	 Page number: 192
+	 Offset: 95
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 23
+Reading logical address: 4900
+	 Page number: 19
+	 Offset: 36
+	 TLB miss!
+	 No page fault!
+	 Frame number 53 read from page table.
+	 Value in the memory: 0
+Reading logical address: 22656
+	 Page number: 88
+	 Offset: 128
+	 TLB miss!
+	 No page fault!
+	 Frame number 11 read from page table.
+	 Value in the memory: 0
+Reading logical address: 34117
+	 Page number: 133
+	 Offset: 69
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 238
+	 Page loaded from disk to memory.
+	 Page table updated at index 133 with frame number 238.
+	 TLB updated with page number 133 and frame number 238.
+	 Value in the memory: 0
+Reading logical address: 55555
+	 Page number: 217
+	 Offset: 3
+	 TLB hit! Frame number: 234 
+	 Value in the memory: 64
+Reading logical address: 48947
+	 Page number: 191
+	 Offset: 51
+	 TLB miss!
+	 No page fault!
+	 Frame number 197 read from page table.
+	 Value in the memory: -52
+Reading logical address: 59533
+	 Page number: 232
+	 Offset: 141
+	 TLB miss!
+	 No page fault!
+	 Frame number 101 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21312
+	 Page number: 83
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 35 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21415
+	 Page number: 83
+	 Offset: 167
+	 TLB miss!
+	 No page fault!
+	 Frame number 35 read from page table.
+	 Value in the memory: -23
+Reading logical address: 813
+	 Page number: 3
+	 Offset: 45
+	 TLB miss!
+	 No page fault!
+	 Frame number 31 read from page table.
+	 Value in the memory: 0
+Reading logical address: 19419
+	 Page number: 75
+	 Offset: 219
+	 TLB miss!
+	 No page fault!
+	 Frame number 55 read from page table.
+	 Value in the memory: -10
+Reading logical address: 1999
+	 Page number: 7
+	 Offset: 207
+	 TLB miss!
+	 No page fault!
+	 Frame number 129 read from page table.
+	 Value in the memory: -13
+Reading logical address: 20155
+	 Page number: 78
+	 Offset: 187
+	 TLB miss!
+	 No page fault!
+	 Frame number 158 read from page table.
+	 Value in the memory: -82
+Reading logical address: 21521
+	 Page number: 84
+	 Offset: 17
+	 TLB miss!
+	 No page fault!
+	 Frame number 204 read from page table.
+	 Value in the memory: 0
+Reading logical address: 13670
+	 Page number: 53
+	 Offset: 102
+	 TLB miss!
+	 No page fault!
+	 Frame number 207 read from page table.
+	 Value in the memory: 13
+Reading logical address: 19289
+	 Page number: 75
+	 Offset: 89
+	 TLB miss!
+	 No page fault!
+	 Frame number 55 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58483
+	 Page number: 228
+	 Offset: 115
+	 TLB miss!
+	 No page fault!
+	 Frame number 60 read from page table.
+	 Value in the memory: 28
+Reading logical address: 41318
+	 Page number: 161
+	 Offset: 102
+	 TLB miss!
+	 No page fault!
+	 Frame number 97 read from page table.
+	 Value in the memory: 40
+Reading logical address: 16151
+	 Page number: 63
+	 Offset: 23
+	 TLB miss!
+	 No page fault!
+	 Frame number 218 read from page table.
+	 Value in the memory: -59
+Reading logical address: 13611
+	 Page number: 53
+	 Offset: 43
+	 TLB miss!
+	 No page fault!
+	 Frame number 207 read from page table.
+	 Value in the memory: 74
+Reading logical address: 21514
+	 Page number: 84
+	 Offset: 10
+	 TLB miss!
+	 No page fault!
+	 Frame number 204 read from page table.
+	 Value in the memory: 21
+Reading logical address: 13499
+	 Page number: 52
+	 Offset: 187
+	 TLB miss!
+	 No page fault!
+	 Frame number 141 read from page table.
+	 Value in the memory: 46
+Reading logical address: 45583
+	 Page number: 178
+	 Offset: 15
+	 TLB miss!
+	 No page fault!
+	 Frame number 30 read from page table.
+	 Value in the memory: -125
+Reading logical address: 49013
+	 Page number: 191
+	 Offset: 117
+	 TLB miss!
+	 No page fault!
+	 Frame number 197 read from page table.
+	 Value in the memory: 0
+Reading logical address: 64843
+	 Page number: 253
+	 Offset: 75
+	 TLB miss!
+	 No page fault!
+	 Frame number 8 read from page table.
+	 Value in the memory: 82
+Reading logical address: 63485
+	 Page number: 247
+	 Offset: 253
+	 TLB miss!
+	 No page fault!
+	 Frame number 66 read from page table.
+	 Value in the memory: 0
+Reading logical address: 38697
+	 Page number: 151
+	 Offset: 41
+	 TLB miss!
+	 No page fault!
+	 Frame number 183 read from page table.
+	 Value in the memory: 0
+Reading logical address: 59188
+	 Page number: 231
+	 Offset: 52
+	 TLB miss!
+	 No page fault!
+	 Frame number 40 read from page table.
+	 Value in the memory: 0
+Reading logical address: 24593
+	 Page number: 96
+	 Offset: 17
+	 TLB miss!
+	 No page fault!
+	 Frame number 150 read from page table.
+	 Value in the memory: 0
+Reading logical address: 57641
+	 Page number: 225
+	 Offset: 41
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 239
+	 Page loaded from disk to memory.
+	 Page table updated at index 225 with frame number 239.
+	 TLB updated with page number 225 and frame number 239.
+	 Value in the memory: 0
+Reading logical address: 36524
+	 Page number: 142
+	 Offset: 172
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 0
+Reading logical address: 56980
+	 Page number: 222
+	 Offset: 148
+	 TLB miss!
+	 No page fault!
+	 Frame number 146 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36810
+	 Page number: 143
+	 Offset: 202
+	 TLB miss!
+	 No page fault!
+	 Frame number 139 read from page table.
+	 Value in the memory: 35
+Reading logical address: 6096
+	 Page number: 23
+	 Offset: 208
+	 TLB miss!
+	 No page fault!
+	 Frame number 36 read from page table.
+	 Value in the memory: 0
+Reading logical address: 11070
+	 Page number: 43
+	 Offset: 62
+	 TLB miss!
+	 No page fault!
+	 Frame number 156 read from page table.
+	 Value in the memory: 10
+Reading logical address: 60124
+	 Page number: 234
+	 Offset: 220
+	 TLB miss!
+	 No page fault!
+	 Frame number 41 read from page table.
+	 Value in the memory: 0
+Reading logical address: 37576
+	 Page number: 146
+	 Offset: 200
+	 TLB miss!
+	 No page fault!
+	 Frame number 83 read from page table.
+	 Value in the memory: 0
+Reading logical address: 15096
+	 Page number: 58
+	 Offset: 248
+	 TLB miss!
+	 No page fault!
+	 Frame number 96 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45247
+	 Page number: 176
+	 Offset: 191
+	 TLB miss!
+	 No page fault!
+	 Frame number 191 read from page table.
+	 Value in the memory: 47
+Reading logical address: 32783
+	 Page number: 128
+	 Offset: 15
+	 TLB miss!
+	 No page fault!
+	 Frame number 16 read from page table.
+	 Value in the memory: 3
+Reading logical address: 58390
+	 Page number: 228
+	 Offset: 22
+	 TLB miss!
+	 No page fault!
+	 Frame number 60 read from page table.
+	 Value in the memory: 57
+Reading logical address: 60873
+	 Page number: 237
+	 Offset: 201
+	 TLB miss!
+	 No page fault!
+	 Frame number 92 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23719
+	 Page number: 92
+	 Offset: 167
+	 TLB miss!
+	 No page fault!
+	 Frame number 214 read from page table.
+	 Value in the memory: 41
+Reading logical address: 24385
+	 Page number: 95
+	 Offset: 65
+	 TLB miss!
+	 No page fault!
+	 Frame number 6 read from page table.
+	 Value in the memory: 0
+Reading logical address: 22307
+	 Page number: 87
+	 Offset: 35
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: -56
+Reading logical address: 17375
+	 Page number: 67
+	 Offset: 223
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 240
+	 Page loaded from disk to memory.
+	 Page table updated at index 67 with frame number 240.
+	 TLB updated with page number 67 and frame number 240.
+	 Value in the memory: -9
+Reading logical address: 15990
+	 Page number: 62
+	 Offset: 118
+	 TLB miss!
+	 No page fault!
+	 Frame number 82 read from page table.
+	 Value in the memory: 15
+Reading logical address: 20526
+	 Page number: 80
+	 Offset: 46
+	 TLB miss!
+	 No page fault!
+	 Frame number 222 read from page table.
+	 Value in the memory: 20
+Reading logical address: 25904
+	 Page number: 101
+	 Offset: 48
+	 TLB miss!
+	 No page fault!
+	 Frame number 143 read from page table.
+	 Value in the memory: 0
+Reading logical address: 42224
+	 Page number: 164
+	 Offset: 240
+	 TLB miss!
+	 No page fault!
+	 Frame number 180 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9311
+	 Page number: 36
+	 Offset: 95
+	 TLB miss!
+	 No page fault!
+	 Frame number 89 read from page table.
+	 Value in the memory: 23
+Reading logical address: 7862
+	 Page number: 30
+	 Offset: 182
+	 TLB hit! Frame number: 226 
+	 Value in the memory: 7
+Reading logical address: 3835
+	 Page number: 14
+	 Offset: 251
+	 TLB miss!
+	 No page fault!
+	 Frame number 39 read from page table.
+	 Value in the memory: -66
+Reading logical address: 30535
+	 Page number: 119
+	 Offset: 71
+	 TLB miss!
+	 No page fault!
+	 Frame number 63 read from page table.
+	 Value in the memory: -47
+Reading logical address: 65179
+	 Page number: 254
+	 Offset: 155
+	 TLB miss!
+	 No page fault!
+	 Frame number 189 read from page table.
+	 Value in the memory: -90
+Reading logical address: 57387
+	 Page number: 224
+	 Offset: 43
+	 TLB miss!
+	 No page fault!
+	 Frame number 148 read from page table.
+	 Value in the memory: 10
+Reading logical address: 63579
+	 Page number: 248
+	 Offset: 91
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 22
+Reading logical address: 4946
+	 Page number: 19
+	 Offset: 82
+	 TLB miss!
+	 No page fault!
+	 Frame number 53 read from page table.
+	 Value in the memory: 4
+Reading logical address: 9037
+	 Page number: 35
+	 Offset: 77
+	 TLB miss!
+	 No page fault!
+	 Frame number 188 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61033
+	 Page number: 238
+	 Offset: 105
+	 TLB miss!
+	 No page fault!
+	 Frame number 23 read from page table.
+	 Value in the memory: 0
+Reading logical address: 55543
+	 Page number: 216
+	 Offset: 247
+	 TLB hit! Frame number: 227 
+	 Value in the memory: 61
+Reading logical address: 50361
+	 Page number: 196
+	 Offset: 185
+	 TLB miss!
+	 No page fault!
+	 Frame number 54 read from page table.
+	 Value in the memory: 0
+Reading logical address: 6480
+	 Page number: 25
+	 Offset: 80
+	 TLB miss!
+	 No page fault!
+	 Frame number 113 read from page table.
+	 Value in the memory: 0
+Reading logical address: 14042
+	 Page number: 54
+	 Offset: 218
+	 TLB miss!
+	 No page fault!
+	 Frame number 122 read from page table.
+	 Value in the memory: 13
+Reading logical address: 21531
+	 Page number: 84
+	 Offset: 27
+	 TLB miss!
+	 No page fault!
+	 Frame number 204 read from page table.
+	 Value in the memory: 6
+Reading logical address: 39195
+	 Page number: 153
+	 Offset: 27
+	 TLB miss!
+	 No page fault!
+	 Frame number 217 read from page table.
+	 Value in the memory: 70
+Reading logical address: 37511
+	 Page number: 146
+	 Offset: 135
+	 TLB miss!
+	 No page fault!
+	 Frame number 83 read from page table.
+	 Value in the memory: -95
+Reading logical address: 23696
+	 Page number: 92
+	 Offset: 144
+	 TLB miss!
+	 No page fault!
+	 Frame number 214 read from page table.
+	 Value in the memory: 0
+Reading logical address: 27440
+	 Page number: 107
+	 Offset: 48
+	 TLB miss!
+	 No page fault!
+	 Frame number 61 read from page table.
+	 Value in the memory: 0
+Reading logical address: 28201
+	 Page number: 110
+	 Offset: 41
+	 TLB miss!
+	 No page fault!
+	 Frame number 136 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23072
+	 Page number: 90
+	 Offset: 32
+	 TLB miss!
+	 No page fault!
+	 Frame number 140 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7814
+	 Page number: 30
+	 Offset: 134
+	 TLB hit! Frame number: 226 
+	 Value in the memory: 7
+Reading logical address: 6552
+	 Page number: 25
+	 Offset: 152
+	 TLB miss!
+	 No page fault!
+	 Frame number 113 read from page table.
+	 Value in the memory: 0
+Reading logical address: 43637
+	 Page number: 170
+	 Offset: 117
+	 TLB miss!
+	 No page fault!
+	 Frame number 49 read from page table.
+	 Value in the memory: 0
+Reading logical address: 35113
+	 Page number: 137
+	 Offset: 41
+	 TLB miss!
+	 No page fault!
+	 Frame number 155 read from page table.
+	 Value in the memory: 0
+Reading logical address: 34890
+	 Page number: 136
+	 Offset: 74
+	 TLB miss!
+	 No page fault!
+	 Frame number 104 read from page table.
+	 Value in the memory: 34
+Reading logical address: 61297
+	 Page number: 239
+	 Offset: 113
+	 TLB miss!
+	 No page fault!
+	 Frame number 165 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45633
+	 Page number: 178
+	 Offset: 65
+	 TLB miss!
+	 No page fault!
+	 Frame number 30 read from page table.
+	 Value in the memory: 0
+Reading logical address: 61431
+	 Page number: 239
+	 Offset: 247
+	 TLB miss!
+	 No page fault!
+	 Frame number 165 read from page table.
+	 Value in the memory: -3
+Reading logical address: 46032
+	 Page number: 179
+	 Offset: 208
+	 TLB miss!
+	 No page fault!
+	 Frame number 199 read from page table.
+	 Value in the memory: 0
+Reading logical address: 18774
+	 Page number: 73
+	 Offset: 86
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 241
+	 Page loaded from disk to memory.
+	 Page table updated at index 73 with frame number 241.
+	 TLB updated with page number 73 and frame number 241.
+	 Value in the memory: 18
+Reading logical address: 62991
+	 Page number: 246
+	 Offset: 15
+	 TLB miss!
+	 No page fault!
+	 Frame number 86 read from page table.
+	 Value in the memory: -125
+Reading logical address: 28059
+	 Page number: 109
+	 Offset: 155
+	 TLB miss!
+	 No page fault!
+	 Frame number 13 read from page table.
+	 Value in the memory: 102
+Reading logical address: 35229
+	 Page number: 137
+	 Offset: 157
+	 TLB miss!
+	 No page fault!
+	 Frame number 155 read from page table.
+	 Value in the memory: 0
+Reading logical address: 51230
+	 Page number: 200
+	 Offset: 30
+	 TLB miss!
+	 No page fault!
+	 Frame number 127 read from page table.
+	 Value in the memory: 50
+Reading logical address: 14405
+	 Page number: 56
+	 Offset: 69
+	 TLB miss!
+	 No page fault!
+	 Frame number 22 read from page table.
+	 Value in the memory: 0
+Reading logical address: 52242
+	 Page number: 204
+	 Offset: 18
+	 TLB miss!
+	 No page fault!
+	 Frame number 182 read from page table.
+	 Value in the memory: 51
+Reading logical address: 43153
+	 Page number: 168
+	 Offset: 145
+	 TLB miss!
+	 No page fault!
+	 Frame number 68 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2709
+	 Page number: 10
+	 Offset: 149
+	 TLB miss!
+	 No page fault!
+	 Frame number 210 read from page table.
+	 Value in the memory: 0
+Reading logical address: 47963
+	 Page number: 187
+	 Offset: 91
+	 TLB miss!
+	 No page fault!
+	 Frame number 100 read from page table.
+	 Value in the memory: -42
+Reading logical address: 36943
+	 Page number: 144
+	 Offset: 79
+	 TLB miss!
+	 No page fault!
+	 Frame number 71 read from page table.
+	 Value in the memory: 19
+Reading logical address: 54066
+	 Page number: 211
+	 Offset: 50
+	 TLB miss!
+	 No page fault!
+	 Frame number 202 read from page table.
+	 Value in the memory: 52
+Reading logical address: 10054
+	 Page number: 39
+	 Offset: 70
+	 TLB hit! Frame number: 235 
+	 Value in the memory: 9
+Reading logical address: 43051
+	 Page number: 168
+	 Offset: 43
+	 TLB miss!
+	 No page fault!
+	 Frame number 68 read from page table.
+	 Value in the memory: 10
+Reading logical address: 11525
+	 Page number: 45
+	 Offset: 5
+	 TLB miss!
+	 No page fault!
+	 Frame number 162 read from page table.
+	 Value in the memory: 0
+Reading logical address: 17684
+	 Page number: 69
+	 Offset: 20
+	 TLB miss!
+	 No page fault!
+	 Frame number 38 read from page table.
+	 Value in the memory: 0
+Reading logical address: 41681
+	 Page number: 162
+	 Offset: 209
+	 TLB miss!
+	 No page fault!
+	 Frame number 163 read from page table.
+	 Value in the memory: 0
+Reading logical address: 27883
+	 Page number: 108
+	 Offset: 235
+	 TLB miss!
+	 No page fault!
+	 Frame number 172 read from page table.
+	 Value in the memory: 58
+Reading logical address: 56909
+	 Page number: 222
+	 Offset: 77
+	 TLB miss!
+	 No page fault!
+	 Frame number 146 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45772
+	 Page number: 178
+	 Offset: 204
+	 TLB miss!
+	 No page fault!
+	 Frame number 30 read from page table.
+	 Value in the memory: 0
+Reading logical address: 27496
+	 Page number: 107
+	 Offset: 104
+	 TLB miss!
+	 No page fault!
+	 Frame number 61 read from page table.
+	 Value in the memory: 0
+Reading logical address: 46842
+	 Page number: 182
+	 Offset: 250
+	 TLB miss!
+	 No page fault!
+	 Frame number 216 read from page table.
+	 Value in the memory: 45
+Reading logical address: 38734
+	 Page number: 151
+	 Offset: 78
+	 TLB miss!
+	 No page fault!
+	 Frame number 183 read from page table.
+	 Value in the memory: 37
+Reading logical address: 28972
+	 Page number: 113
+	 Offset: 44
+	 TLB miss!
+	 No page fault!
+	 Frame number 64 read from page table.
+	 Value in the memory: 0
+Reading logical address: 59684
+	 Page number: 233
+	 Offset: 36
+	 TLB miss!
+	 No page fault!
+	 Frame number 185 read from page table.
+	 Value in the memory: 0
+Reading logical address: 11384
+	 Page number: 44
+	 Offset: 120
+	 TLB miss!
+	 No page fault!
+	 Frame number 212 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21018
+	 Page number: 82
+	 Offset: 26
+	 TLB miss!
+	 No page fault!
+	 Frame number 147 read from page table.
+	 Value in the memory: 20
+Reading logical address: 2192
+	 Page number: 8
+	 Offset: 144
+	 TLB miss!
+	 No page fault!
+	 Frame number 137 read from page table.
+	 Value in the memory: 0
+Reading logical address: 18384
+	 Page number: 71
+	 Offset: 208
+	 TLB miss!
+	 No page fault!
+	 Frame number 9 read from page table.
+	 Value in the memory: 0
+Reading logical address: 13464
+	 Page number: 52
+	 Offset: 152
+	 TLB miss!
+	 No page fault!
+	 Frame number 141 read from page table.
+	 Value in the memory: 0
+Reading logical address: 31018
+	 Page number: 121
+	 Offset: 42
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 242
+	 Page loaded from disk to memory.
+	 Page table updated at index 121 with frame number 242.
+	 TLB updated with page number 121 and frame number 242.
+	 Value in the memory: 30
+Reading logical address: 62958
+	 Page number: 245
+	 Offset: 238
+	 TLB miss!
+	 No page fault!
+	 Frame number 111 read from page table.
+	 Value in the memory: 61
+Reading logical address: 30611
+	 Page number: 119
+	 Offset: 147
+	 TLB miss!
+	 No page fault!
+	 Frame number 63 read from page table.
+	 Value in the memory: -28
+Reading logical address: 1913
+	 Page number: 7
+	 Offset: 121
+	 TLB miss!
+	 No page fault!
+	 Frame number 129 read from page table.
+	 Value in the memory: 0
+Reading logical address: 18904
+	 Page number: 73
+	 Offset: 216
+	 TLB hit! Frame number: 241 
+	 Value in the memory: 0
+Reading logical address: 26773
+	 Page number: 104
+	 Offset: 149
+	 TLB miss!
+	 No page fault!
+	 Frame number 166 read from page table.
+	 Value in the memory: 0
+Reading logical address: 55491
+	 Page number: 216
+	 Offset: 195
+	 TLB hit! Frame number: 227 
+	 Value in the memory: 48
+Reading logical address: 21899
+	 Page number: 85
+	 Offset: 139
+	 TLB miss!
+	 No page fault!
+	 Frame number 94 read from page table.
+	 Value in the memory: 98
+Reading logical address: 64413
+	 Page number: 251
+	 Offset: 157
+	 TLB miss!
+	 No page fault!
+	 Frame number 19 read from page table.
+	 Value in the memory: 0
+Reading logical address: 47134
+	 Page number: 184
+	 Offset: 30
+	 TLB miss!
+	 No page fault!
+	 Frame number 116 read from page table.
+	 Value in the memory: 46
+Reading logical address: 23172
+	 Page number: 90
+	 Offset: 132
+	 TLB miss!
+	 No page fault!
+	 Frame number 140 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7262
+	 Page number: 28
+	 Offset: 94
+	 TLB miss!
+	 No page fault!
+	 Frame number 168 read from page table.
+	 Value in the memory: 7
+Reading logical address: 12705
+	 Page number: 49
+	 Offset: 161
+	 TLB miss!
+	 No page fault!
+	 Frame number 121 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7522
+	 Page number: 29
+	 Offset: 98
+	 TLB miss!
+	 No page fault!
+	 Frame number 24 read from page table.
+	 Value in the memory: 7
+Reading logical address: 58815
+	 Page number: 229
+	 Offset: 191
+	 TLB miss!
+	 No page fault!
+	 Frame number 215 read from page table.
+	 Value in the memory: 111
+Reading logical address: 34916
+	 Page number: 136
+	 Offset: 100
+	 TLB miss!
+	 No page fault!
+	 Frame number 104 read from page table.
+	 Value in the memory: 0
+Reading logical address: 3802
+	 Page number: 14
+	 Offset: 218
+	 TLB miss!
+	 No page fault!
+	 Frame number 39 read from page table.
+	 Value in the memory: 3
+Reading logical address: 58008
+	 Page number: 226
+	 Offset: 152
+	 TLB miss!
+	 No page fault!
+	 Frame number 12 read from page table.
+	 Value in the memory: 0
+Reading logical address: 1239
+	 Page number: 4
+	 Offset: 215
+	 TLB miss!
+	 No page fault!
+	 Frame number 159 read from page table.
+	 Value in the memory: 53
+Reading logical address: 63947
+	 Page number: 249
+	 Offset: 203
+	 TLB miss!
+	 No page fault!
+	 Frame number 85 read from page table.
+	 Value in the memory: 114
+Reading logical address: 381
+	 Page number: 1
+	 Offset: 125
+	 TLB miss!
+	 No page fault!
+	 Frame number 223 read from page table.
+	 Value in the memory: 0
+Reading logical address: 60734
+	 Page number: 237
+	 Offset: 62
+	 TLB miss!
+	 No page fault!
+	 Frame number 92 read from page table.
+	 Value in the memory: 59
+Reading logical address: 48769
+	 Page number: 190
+	 Offset: 129
+	 TLB miss!
+	 No page fault!
+	 Frame number 128 read from page table.
+	 Value in the memory: 0
+Reading logical address: 41938
+	 Page number: 163
+	 Offset: 210
+	 TLB miss!
+	 No page fault!
+	 Frame number 151 read from page table.
+	 Value in the memory: 40
+Reading logical address: 38025
+	 Page number: 148
+	 Offset: 137
+	 TLB miss!
+	 No page fault!
+	 Frame number 145 read from page table.
+	 Value in the memory: 0
+Reading logical address: 55099
+	 Page number: 215
+	 Offset: 59
+	 TLB miss!
+	 No page fault!
+	 Frame number 20 read from page table.
+	 Value in the memory: -50
+Reading logical address: 56691
+	 Page number: 221
+	 Offset: 115
+	 TLB miss!
+	 No page fault!
+	 Frame number 52 read from page table.
+	 Value in the memory: 92
+Reading logical address: 39530
+	 Page number: 154
+	 Offset: 106
+	 TLB miss!
+	 No page fault!
+	 Frame number 169 read from page table.
+	 Value in the memory: 38
+Reading logical address: 59003
+	 Page number: 230
+	 Offset: 123
+	 TLB miss!
+	 No page fault!
+	 Frame number 58 read from page table.
+	 Value in the memory: -98
+Reading logical address: 6029
+	 Page number: 23
+	 Offset: 141
+	 TLB miss!
+	 No page fault!
+	 Frame number 36 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20920
+	 Page number: 81
+	 Offset: 184
+	 TLB miss!
+	 No page fault!
+	 Frame number 152 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8077
+	 Page number: 31
+	 Offset: 141
+	 TLB miss!
+	 No page fault!
+	 Frame number 132 read from page table.
+	 Value in the memory: 0
+Reading logical address: 42633
+	 Page number: 166
+	 Offset: 137
+	 TLB miss!
+	 No page fault!
+	 Frame number 81 read from page table.
+	 Value in the memory: 0
+Reading logical address: 17443
+	 Page number: 68
+	 Offset: 35
+	 TLB miss!
+	 No page fault!
+	 Frame number 160 read from page table.
+	 Value in the memory: 8
+Reading logical address: 53570
+	 Page number: 209
+	 Offset: 66
+	 TLB miss!
+	 No page fault!
+	 Frame number 3 read from page table.
+	 Value in the memory: 52
+Reading logical address: 22833
+	 Page number: 89
+	 Offset: 49
+	 TLB miss!
+	 No page fault!
+	 Frame number 206 read from page table.
+	 Value in the memory: 0
+Reading logical address: 3782
+	 Page number: 14
+	 Offset: 198
+	 TLB miss!
+	 No page fault!
+	 Frame number 39 read from page table.
+	 Value in the memory: 3
+Reading logical address: 47758
+	 Page number: 186
+	 Offset: 142
+	 TLB miss!
+	 No page fault!
+	 Frame number 220 read from page table.
+	 Value in the memory: 46
+Reading logical address: 22136
+	 Page number: 86
+	 Offset: 120
+	 TLB miss!
+	 No page fault!
+	 Frame number 221 read from page table.
+	 Value in the memory: 0
+Reading logical address: 22427
+	 Page number: 87
+	 Offset: 155
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: -26
+Reading logical address: 23867
+	 Page number: 93
+	 Offset: 59
+	 TLB miss!
+	 No page fault!
+	 Frame number 154 read from page table.
+	 Value in the memory: 78
+Reading logical address: 59968
+	 Page number: 234
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 41 read from page table.
+	 Value in the memory: 0
+Reading logical address: 62166
+	 Page number: 242
+	 Offset: 214
+	 TLB miss!
+	 Page fault!
+	 Found free frame number: 243
+	 Page loaded from disk to memory.
+	 Page table updated at index 242 with frame number 243.
+	 TLB updated with page number 242 and frame number 243.
+	 Value in the memory: 60
+Reading logical address: 6972
+	 Page number: 27
+	 Offset: 60
+	 TLB miss!
+	 No page fault!
+	 Frame number 103 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63684
+	 Page number: 248
+	 Offset: 196
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 0
+Reading logical address: 46388
+	 Page number: 181
+	 Offset: 52
+	 TLB miss!
+	 No page fault!
+	 Frame number 196 read from page table.
+	 Value in the memory: 0
+Reading logical address: 41942
+	 Page number: 163
+	 Offset: 214
+	 TLB miss!
+	 No page fault!
+	 Frame number 151 read from page table.
+	 Value in the memory: 40
+Reading logical address: 36524
+	 Page number: 142
+	 Offset: 172
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9323
+	 Page number: 36
+	 Offset: 107
+	 TLB miss!
+	 No page fault!
+	 Frame number 89 read from page table.
+	 Value in the memory: 26
+Reading logical address: 31114
+	 Page number: 121
+	 Offset: 138
+	 TLB hit! Frame number: 242 
+	 Value in the memory: 30
+Reading logical address: 22345
+	 Page number: 87
+	 Offset: 73
+	 TLB miss!
+	 No page fault!
+	 Frame number 44 read from page table.
+	 Value in the memory: 0
+Reading logical address: 46463
+	 Page number: 181
+	 Offset: 127
+	 TLB miss!
+	 No page fault!
+	 Frame number 196 read from page table.
+	 Value in the memory: 95
+Reading logical address: 54671
+	 Page number: 213
+	 Offset: 143
+	 TLB miss!
+	 No page fault!
+	 Frame number 190 read from page table.
+	 Value in the memory: 99
+Reading logical address: 9214
+	 Page number: 35
+	 Offset: 254
+	 TLB miss!
+	 No page fault!
+	 Frame number 188 read from page table.
+	 Value in the memory: 8
+Reading logical address: 7257
+	 Page number: 28
+	 Offset: 89
+	 TLB miss!
+	 No page fault!
+	 Frame number 168 read from page table.
+	 Value in the memory: 0
+Reading logical address: 33150
+	 Page number: 129
+	 Offset: 126
+	 TLB miss!
+	 No page fault!
+	 Frame number 209 read from page table.
+	 Value in the memory: 32
+Reading logical address: 41565
+	 Page number: 162
+	 Offset: 93
+	 TLB miss!
+	 No page fault!
+	 Frame number 163 read from page table.
+	 Value in the memory: 0
+Reading logical address: 26214
+	 Page number: 102
+	 Offset: 102
+	 TLB miss!
+	 No page fault!
+	 Frame number 192 read from page table.
+	 Value in the memory: 25
+Reading logical address: 3595
+	 Page number: 14
+	 Offset: 11
+	 TLB miss!
+	 No page fault!
+	 Frame number 39 read from page table.
+	 Value in the memory: -126
+Reading logical address: 17932
+	 Page number: 70
+	 Offset: 12
+	 TLB miss!
+	 No page fault!
+	 Frame number 73 read from page table.
+	 Value in the memory: 0
+Reading logical address: 34660
+	 Page number: 135
+	 Offset: 100
+	 TLB miss!
+	 No page fault!
+	 Frame number 70 read from page table.
+	 Value in the memory: 0
+Reading logical address: 51961
+	 Page number: 202
+	 Offset: 249
+	 TLB miss!
+	 No page fault!
+	 Frame number 106 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58634
+	 Page number: 229
+	 Offset: 10
+	 TLB miss!
+	 No page fault!
+	 Frame number 215 read from page table.
+	 Value in the memory: 57
+Reading logical address: 57990
+	 Page number: 226
+	 Offset: 134
+	 TLB miss!
+	 No page fault!
+	 Frame number 12 read from page table.
+	 Value in the memory: 56
+Reading logical address: 28848
+	 Page number: 112
+	 Offset: 176
+	 TLB miss!
+	 No page fault!
+	 Frame number 5 read from page table.
+	 Value in the memory: 0
+Reading logical address: 49920
+	 Page number: 195
+	 Offset: 0
+	 TLB hit! Frame number: 231 
+	 Value in the memory: 0
+Reading logical address: 18351
+	 Page number: 71
+	 Offset: 175
+	 TLB miss!
+	 No page fault!
+	 Frame number 9 read from page table.
+	 Value in the memory: -21
+Reading logical address: 53669
+	 Page number: 209
+	 Offset: 165
+	 TLB miss!
+	 No page fault!
+	 Frame number 3 read from page table.
+	 Value in the memory: 0
+Reading logical address: 33996
+	 Page number: 132
+	 Offset: 204
+	 TLB miss!
+	 No page fault!
+	 Frame number 164 read from page table.
+	 Value in the memory: 0
+Reading logical address: 6741
+	 Page number: 26
+	 Offset: 85
+	 TLB miss!
+	 No page fault!
+	 Frame number 26 read from page table.
+	 Value in the memory: 0
+Reading logical address: 64098
+	 Page number: 250
+	 Offset: 98
+	 TLB miss!
+	 No page fault!
+	 Frame number 17 read from page table.
+	 Value in the memory: 62
+Reading logical address: 606
+	 Page number: 2
+	 Offset: 94
+	 TLB miss!
+	 No page fault!
+	 Frame number 67 read from page table.
+	 Value in the memory: 0
+Reading logical address: 27383
+	 Page number: 106
+	 Offset: 247
+	 TLB miss!
+	 No page fault!
+	 Frame number 112 read from page table.
+	 Value in the memory: -67
+Reading logical address: 63140
+	 Page number: 246
+	 Offset: 164
+	 TLB miss!
+	 No page fault!
+	 Frame number 86 read from page table.
+	 Value in the memory: 0
+Reading logical address: 32228
+	 Page number: 125
+	 Offset: 228
+	 TLB miss!
+	 No page fault!
+	 Frame number 194 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63437
+	 Page number: 247
+	 Offset: 205
+	 TLB miss!
+	 No page fault!
+	 Frame number 66 read from page table.
+	 Value in the memory: 0
+Reading logical address: 29085
+	 Page number: 113
+	 Offset: 157
+	 TLB miss!
+	 No page fault!
+	 Frame number 64 read from page table.
+	 Value in the memory: 0
+Reading logical address: 65080
+	 Page number: 254
+	 Offset: 56
+	 TLB miss!
+	 No page fault!
+	 Frame number 189 read from page table.
+	 Value in the memory: 0
+Reading logical address: 38753
+	 Page number: 151
+	 Offset: 97
+	 TLB miss!
+	 No page fault!
+	 Frame number 183 read from page table.
+	 Value in the memory: 0
+Reading logical address: 16041
+	 Page number: 62
+	 Offset: 169
+	 TLB miss!
+	 No page fault!
+	 Frame number 82 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9041
+	 Page number: 35
+	 Offset: 81
+	 TLB miss!
+	 No page fault!
+	 Frame number 188 read from page table.
+	 Value in the memory: 0
+Reading logical address: 42090
+	 Page number: 164
+	 Offset: 106
+	 TLB miss!
+	 No page fault!
+	 Frame number 180 read from page table.
+	 Value in the memory: 41
+Reading logical address: 46388
+	 Page number: 181
+	 Offset: 52
+	 TLB miss!
+	 No page fault!
+	 Frame number 196 read from page table.
+	 Value in the memory: 0
+Reading logical address: 63650
+	 Page number: 248
+	 Offset: 162
+	 TLB miss!
+	 No page fault!
+	 Frame number 110 read from page table.
+	 Value in the memory: 62
+Reading logical address: 36636
+	 Page number: 143
+	 Offset: 28
+	 TLB miss!
+	 No page fault!
+	 Frame number 139 read from page table.
+	 Value in the memory: 0
+Reading logical address: 21947
+	 Page number: 85
+	 Offset: 187
+	 TLB miss!
+	 No page fault!
+	 Frame number 94 read from page table.
+	 Value in the memory: 110
+Reading logical address: 19833
+	 Page number: 77
+	 Offset: 121
+	 TLB miss!
+	 No page fault!
+	 Frame number 142 read from page table.
+	 Value in the memory: 0
+Reading logical address: 36464
+	 Page number: 142
+	 Offset: 112
+	 TLB miss!
+	 No page fault!
+	 Frame number 56 read from page table.
+	 Value in the memory: 0
+Reading logical address: 8541
+	 Page number: 33
+	 Offset: 93
+	 TLB miss!
+	 No page fault!
+	 Frame number 78 read from page table.
+	 Value in the memory: 0
+Reading logical address: 12712
+	 Page number: 49
+	 Offset: 168
+	 TLB miss!
+	 No page fault!
+	 Frame number 121 read from page table.
+	 Value in the memory: 0
+Reading logical address: 48955
+	 Page number: 191
+	 Offset: 59
+	 TLB miss!
+	 No page fault!
+	 Frame number 197 read from page table.
+	 Value in the memory: -50
+Reading logical address: 39206
+	 Page number: 153
+	 Offset: 38
+	 TLB miss!
+	 No page fault!
+	 Frame number 217 read from page table.
+	 Value in the memory: 38
+Reading logical address: 15578
+	 Page number: 60
+	 Offset: 218
+	 TLB miss!
+	 No page fault!
+	 Frame number 124 read from page table.
+	 Value in the memory: 15
+Reading logical address: 49205
+	 Page number: 192
+	 Offset: 53
+	 TLB miss!
+	 No page fault!
+	 Frame number 33 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7731
+	 Page number: 30
+	 Offset: 51
+	 TLB miss!
+	 No page fault!
+	 Frame number 226 read from page table.
+	 Value in the memory: -116
+Reading logical address: 43046
+	 Page number: 168
+	 Offset: 38
+	 TLB miss!
+	 No page fault!
+	 Frame number 68 read from page table.
+	 Value in the memory: 42
+Reading logical address: 60498
+	 Page number: 236
+	 Offset: 82
+	 TLB miss!
+	 No page fault!
+	 Frame number 28 read from page table.
+	 Value in the memory: 59
+Reading logical address: 9237
+	 Page number: 36
+	 Offset: 21
+	 TLB miss!
+	 No page fault!
+	 Frame number 89 read from page table.
+	 Value in the memory: 0
+Reading logical address: 47706
+	 Page number: 186
+	 Offset: 90
+	 TLB miss!
+	 No page fault!
+	 Frame number 220 read from page table.
+	 Value in the memory: 46
+Reading logical address: 43973
+	 Page number: 171
+	 Offset: 197
+	 TLB miss!
+	 No page fault!
+	 Frame number 224 read from page table.
+	 Value in the memory: 0
+Reading logical address: 42008
+	 Page number: 164
+	 Offset: 24
+	 TLB miss!
+	 No page fault!
+	 Frame number 180 read from page table.
+	 Value in the memory: 0
+Reading logical address: 27460
+	 Page number: 107
+	 Offset: 68
+	 TLB miss!
+	 No page fault!
+	 Frame number 61 read from page table.
+	 Value in the memory: 0
+Reading logical address: 24999
+	 Page number: 97
+	 Offset: 167
+	 TLB miss!
+	 No page fault!
+	 Frame number 205 read from page table.
+	 Value in the memory: 105
+Reading logical address: 51933
+	 Page number: 202
+	 Offset: 221
+	 TLB miss!
+	 No page fault!
+	 Frame number 106 read from page table.
+	 Value in the memory: 0
+Reading logical address: 34070
+	 Page number: 133
+	 Offset: 22
+	 TLB hit! Frame number: 238 
+	 Value in the memory: 33
+Reading logical address: 65155
+	 Page number: 254
+	 Offset: 131
+	 TLB miss!
+	 No page fault!
+	 Frame number 189 read from page table.
+	 Value in the memory: -96
+Reading logical address: 59955
+	 Page number: 234
+	 Offset: 51
+	 TLB miss!
+	 No page fault!
+	 Frame number 41 read from page table.
+	 Value in the memory: -116
+Reading logical address: 9277
+	 Page number: 36
+	 Offset: 61
+	 TLB miss!
+	 No page fault!
+	 Frame number 89 read from page table.
+	 Value in the memory: 0
+Reading logical address: 20420
+	 Page number: 79
+	 Offset: 196
+	 TLB miss!
+	 No page fault!
+	 Frame number 65 read from page table.
+	 Value in the memory: 0
+Reading logical address: 44860
+	 Page number: 175
+	 Offset: 60
+	 TLB miss!
+	 No page fault!
+	 Frame number 51 read from page table.
+	 Value in the memory: 0
+Reading logical address: 50992
+	 Page number: 199
+	 Offset: 48
+	 TLB miss!
+	 No page fault!
+	 Frame number 167 read from page table.
+	 Value in the memory: 0
+Reading logical address: 10583
+	 Page number: 41
+	 Offset: 87
+	 TLB miss!
+	 No page fault!
+	 Frame number 107 read from page table.
+	 Value in the memory: 85
+Reading logical address: 57751
+	 Page number: 225
+	 Offset: 151
+	 TLB hit! Frame number: 239 
+	 Value in the memory: 101
+Reading logical address: 23195
+	 Page number: 90
+	 Offset: 155
+	 TLB miss!
+	 No page fault!
+	 Frame number 140 read from page table.
+	 Value in the memory: -90
+Reading logical address: 27227
+	 Page number: 106
+	 Offset: 91
+	 TLB miss!
+	 No page fault!
+	 Frame number 112 read from page table.
+	 Value in the memory: -106
+Reading logical address: 42816
+	 Page number: 167
+	 Offset: 64
+	 TLB miss!
+	 No page fault!
+	 Frame number 76 read from page table.
+	 Value in the memory: 0
+Reading logical address: 58219
+	 Page number: 227
+	 Offset: 107
+	 TLB miss!
+	 No page fault!
+	 Frame number 133 read from page table.
+	 Value in the memory: -38
+Reading logical address: 37606
+	 Page number: 146
+	 Offset: 230
+	 TLB miss!
+	 No page fault!
+	 Frame number 83 read from page table.
+	 Value in the memory: 36
+Reading logical address: 18426
+	 Page number: 71
+	 Offset: 250
+	 TLB miss!
+	 No page fault!
+	 Frame number 9 read from page table.
+	 Value in the memory: 17
+Reading logical address: 21238
+	 Page number: 82
+	 Offset: 246
+	 TLB miss!
+	 No page fault!
+	 Frame number 147 read from page table.
+	 Value in the memory: 20
+Reading logical address: 11983
+	 Page number: 46
+	 Offset: 207
+	 TLB hit! Frame number: 233 
+	 Value in the memory: -77
+Reading logical address: 48394
+	 Page number: 189
+	 Offset: 10
+	 TLB miss!
+	 No page fault!
+	 Frame number 7 read from page table.
+	 Value in the memory: 47
+Reading logical address: 11036
+	 Page number: 43
+	 Offset: 28
+	 TLB miss!
+	 No page fault!
+	 Frame number 156 read from page table.
+	 Value in the memory: 0
+Reading logical address: 30557
+	 Page number: 119
+	 Offset: 93
+	 TLB miss!
+	 No page fault!
+	 Frame number 63 read from page table.
+	 Value in the memory: 0
+Reading logical address: 23453
+	 Page number: 91
+	 Offset: 157
+	 TLB miss!
+	 No page fault!
+	 Frame number 80 read from page table.
+	 Value in the memory: 0
+Reading logical address: 49847
+	 Page number: 194
+	 Offset: 183
+	 TLB miss!
+	 No page fault!
+	 Frame number 123 read from page table.
+	 Value in the memory: -83
+Reading logical address: 30032
+	 Page number: 117
+	 Offset: 80
+	 TLB miss!
+	 No page fault!
+	 Frame number 2 read from page table.
+	 Value in the memory: 0
+Reading logical address: 48065
+	 Page number: 187
+	 Offset: 193
+	 TLB miss!
+	 No page fault!
+	 Frame number 100 read from page table.
+	 Value in the memory: 0
+Reading logical address: 6957
+	 Page number: 27
+	 Offset: 45
+	 TLB miss!
+	 No page fault!
+	 Frame number 103 read from page table.
+	 Value in the memory: 0
+Reading logical address: 2301
+	 Page number: 8
+	 Offset: 253
+	 TLB miss!
+	 No page fault!
+	 Frame number 137 read from page table.
+	 Value in the memory: 0
+Reading logical address: 7736
+	 Page number: 30
+	 Offset: 56
+	 TLB miss!
+	 No page fault!
+	 Frame number 226 read from page table.
+	 Value in the memory: 0
+Reading logical address: 31260
+	 Page number: 122
+	 Offset: 28
+	 TLB miss!
+	 No page fault!
+	 Frame number 91 read from page table.
+	 Value in the memory: 0
+Reading logical address: 17071
+	 Page number: 66
+	 Offset: 175
+	 TLB miss!
+	 No page fault!
+	 Frame number 0 read from page table.
+	 Value in the memory: -85
+Reading logical address: 8940
+	 Page number: 34
+	 Offset: 236
+	 TLB miss!
+	 No page fault!
+	 Frame number 181 read from page table.
+	 Value in the memory: 0
+Reading logical address: 9929
+	 Page number: 38
+	 Offset: 201
+	 TLB miss!
+	 No page fault!
+	 Frame number 174 read from page table.
+	 Value in the memory: 0
+Reading logical address: 45563
+	 Page number: 177
+	 Offset: 251
+	 TLB miss!
+	 No page fault!
+	 Frame number 179 read from page table.
+	 Value in the memory: 126
+Reading logical address: 12107
+	 Page number: 47
+	 Offset: 75
+	 TLB miss!
+	 No page fault!
+	 Frame number 10 read from page table.
+	 Value in the memory: -46
+
+
+Aggregate page faults = 244
+Aggregate TLB hits = 55
